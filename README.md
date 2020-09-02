@@ -1,6 +1,8 @@
 # App Ribon - Doe de graça para a caridade
 
-<center><img src="https://lh3.googleusercontent.com/LGl1CcC-8JJ5QbnFF1k9qG_3TnpLD1hLSP2GjuNyTPGCDF_pMCWvnUOhzHkEQR5qfqA6" alt="drawing" width="300"/></center>
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/LGl1CcC-8JJ5QbnFF1k9qG_3TnpLD1hLSP2GjuNyTPGCDF_pMCWvnUOhzHkEQR5qfqA6" alt="drawing" width="300"/>
+</p>
 
 ## Sobre o Projeto
 
@@ -21,4 +23,3 @@ Matrícula| Membro | GitHub | E-mail
 17/0113060 | Pedro Vítor de Salles Cella | pedro-cella | pedrovscella@gmail.com 
 
 ## Políticas de Contribuição
-
