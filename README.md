@@ -1,6 +1,6 @@
 # App Ribon - Doe de graça para a caridade
 
-<img src="https://lh3.googleusercontent.com/LGl1CcC-8JJ5QbnFF1k9qG_3TnpLD1hLSP2GjuNyTPGCDF_pMCWvnUOhzHkEQR5qfqA6" alt="drawing" width="300"/>
+<center><img src="https://lh3.googleusercontent.com/LGl1CcC-8JJ5QbnFF1k9qG_3TnpLD1hLSP2GjuNyTPGCDF_pMCWvnUOhzHkEQR5qfqA6" alt="drawing" width="300"/></center>
 
 ## Sobre o Projeto
 
@@ -8,7 +8,7 @@ Esse repositório foi criado para a matéria Requisitos de Software da Universid
 
 ## Sobre o app
 
-A Ribon foi uma aplicação criada em 2016 por estudantes da Universidade de Brasília que se encontraram através das empresas juniores e tinham um desejo em comum, a "vontade de ajudar e se sentir bem fazendo parte de algo maior". Nesse app é possível fazer doações para as ONGs mais eficientes do mundo sem gastar dinheiro, apenas lendo notícias e boas histórias que acumulam ribons (moedas virtuais da doação), e o usuário escolhe qual instituição de caridade deseja ajudar.
+A Ribon foi uma aplicação criada em 2016 por estudantes da Universidade de Brasília que se encontraram através das empresas juniores e tinham um desejo em comum, a "vontade de ajudar e se sentir bem fazendo parte de algo maior". Nesse app é possível fazer doações para as ONGs mais eficientes do mundo sem gastar dinheiro, apenas lendo notícias e boas histórias que acumulam ribons (moedas virtuais de doação), e com a moeda o usuário escolhe qual instituição de caridade deseja ajudar.
 
 ## Contribuidores
 
