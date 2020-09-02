@@ -20,5 +20,5 @@ Matrícula| Membro | GitHub | E-mail
 17/0122549 | Paulo Gonçalves Lima | paulogoncalveslima | paulogoncalves436@gmail.com 
 17/0113060 | Pedro Vítor de Salles Cella | pedro-cella | pedrovscella@gmail.com 
 
-## Políticas de Contribuíção
+## Políticas de Contribuição
 
