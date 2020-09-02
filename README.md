@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-
+Esse repositório foi criado para a matéria Requisitos de Software da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto de levantamento de requisitos de um site. O site escolhido pela equipe foi [Ribon](https://home.ribon.io/), 
 
 ## Contribuidores
 
