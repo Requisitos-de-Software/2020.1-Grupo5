@@ -1,5 +1,6 @@
-# Sobre o Projeto
-Essa app já possui documentação: https://github.com/requisitos-2019-1/Ribon/wiki
+# Esse app já possui documentação: https://github.com/requisitos-2019-1/Ribon/wiki
+
+Vocês devem procurar um outro aplicativo. 
 
 
 # App Ribon - Doe de graça para a caridade
