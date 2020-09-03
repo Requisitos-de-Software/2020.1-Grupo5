@@ -5,6 +5,9 @@
 </p>
 
 ## Sobre o Projeto
+Essa app já possui documentação: https://github.com/requisitos-2019-1/Ribon/wiki
+
+## Sobre o Projeto
 
 Esse repositório foi criado para a matéria Requisitos de Software da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto de levantamento de requisitos de um aplicativo. O escolhido em questão pela equipe foi o da [Ribon](https://play.google.com/store/apps/details?id=com.app.ribon&hl=pt_BR). Nesse repositório espera-se que ao final do semestre esteja pronta uma análise completa de pré-rastreablidade, elicitação, modelagem, análise e pós-rastreabilidade e também levantados os requisitos não funcionais e funcionais da aplicação.
 
