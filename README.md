@@ -1,11 +1,13 @@
+# Sobre o Projeto
+Essa app já possui documentação: https://github.com/requisitos-2019-1/Ribon/wiki
+
+
 # App Ribon - Doe de graça para a caridade
 
 <p align="center">
     <img src="https://lh3.googleusercontent.com/LGl1CcC-8JJ5QbnFF1k9qG_3TnpLD1hLSP2GjuNyTPGCDF_pMCWvnUOhzHkEQR5qfqA6" alt="drawing" width="300"/>
 </p>
 
-## Sobre o Projeto
-Essa app já possui documentação: https://github.com/requisitos-2019-1/Ribon/wiki
 
 ## Sobre o Projeto
 
