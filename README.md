@@ -1,22 +1,16 @@
-# Recebi a autorização do Prof. Milene para vocês trabalharem com o Mia-Ajuda no projeto da disciplina. Conversamos sobre isso na próxima aula. Bom planejamento de projeto e até a próxima aula. Prof. André Barros de Sales.
-
-Vocês devem procurar um outro aplicativo. 
-
-
-# App Ribon - Doe de graça para a caridade
+# App Mia Ajuda
 
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/LGl1CcC-8JJ5QbnFF1k9qG_3TnpLD1hLSP2GjuNyTPGCDF_pMCWvnUOhzHkEQR5qfqA6" alt="drawing" width="300"/>
+  <img src="https://i.imgur.com/5wtqEys.png" alt="Logo Mia Ajuda" width="50%"/>
 </p>
 
 
 ## Sobre o Projeto
 
-Esse repositório foi criado para a matéria Requisitos de Software da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto de levantamento de requisitos de um aplicativo. O escolhido em questão pela equipe foi o da [Ribon](https://play.google.com/store/apps/details?id=com.app.ribon&hl=pt_BR). Nesse repositório espera-se que ao final do semestre esteja pronta uma análise completa de pré-rastreablidade, elicitação, modelagem, análise e pós-rastreabilidade e também levantados os requisitos não funcionais e funcionais da aplicação.
+Esse repositório foi criado para a matéria Requisitos de Software da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto de levantamento de requisitos de um aplicativo. O escolhido em questão pela equipe foi o da [Mia Ajuda](https://play.google.com/store/apps/details?id=com.unb.miaajuda&hl=pt_BR). Nesse repositório espera-se que ao final do semestre esteja pronta uma análise completa de pré-rastreablidade, elicitação, modelagem, análise e pós-rastreabilidade e também levantados os requisitos não funcionais e funcionais da aplicação.
 
 ## Sobre o app
-
-A Ribon foi uma aplicação criada em 2016 por estudantes da Universidade de Brasília que se encontraram através das empresas juniores e tinham um desejo em comum, a "vontade de ajudar e se sentir bem fazendo parte de algo maior". Nesse app é possível fazer doações para as ONGs mais eficientes do mundo sem gastar dinheiro, apenas lendo notícias e boas histórias que acumulam ribons (moedas virtuais de doação), e com a moeda o usuário escolhe qual instituição de caridade deseja ajudar.
+O Mia Ajuda é uma aplicação criada em 2020 por estudantes da Universidade de Brasília(FGA). O aplicativo tem o propósito de ser uma ferramenta de incentivo a ações sociais de ajuda e colaboração entre pessoas de comunidades e vizinhanças. O Mia Ajuda serve como um meio de ligação entre pessoas necessitadas e voluntários que possam ajudar, seja de forma imaterial (entretenimento, companhia, amparo psicológico), como de forma material (comida, objetos, itens de higiene pessoal).
 
 ## Contribuidores
 
