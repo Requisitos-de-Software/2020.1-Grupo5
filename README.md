@@ -1,4 +1,4 @@
-# Esse app já possui documentação: https://github.com/requisitos-2019-1/Ribon/wiki
+# Recebi a autorização do Prof. Milene para vocês trabalharem com o Mia-Ajuda no projeto da disciplina. Conversamos sobre isso na próxima aula. Bom planejamento de projeto e até a próxima aula. Prof. André Barros de Sales.
 
 Vocês devem procurar um outro aplicativo. 
 
