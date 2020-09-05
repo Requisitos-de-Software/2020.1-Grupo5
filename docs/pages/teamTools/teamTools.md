@@ -30,3 +30,10 @@
 ### [Visual Sudio Code](https://code.visualstudio.com/):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vai ser utilizado para o provável desenvolvimento de documentos necessários para o projeto.
+
+---
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|02/09/2020|0.1|Criação do documento ferramentas do time|Paulo Gonçalves Lima|
+|03/09/2020|0.2|Pequena alteração de acordo com a revisão descrita na issue [#10](https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda/issues/10#event-3721704041)|Paulo Gonçalves Lima|
+|05/09/2020|0.3|Ajuste dos titulos de cada seção|Paulo Gonçalves Lima|
