@@ -100,7 +100,7 @@
 - Toda vez que for necessário criar um novo arquivo, crie uma pasta em:
 
 ```
-    docs/docs/nomeDaPasta/nomeDoArquivo.md
+    docs/pages/nomeDaPasta/nomeDoArquivo.md
 ```
 
 - Todo arquivo e pasta novos seguirão o padrão *camelCase* e serão escritos em inglês.
@@ -112,7 +112,7 @@
 ![folderExample](./images/folderExample.png)
 
 ```
-    docs/docs/pastaDoMeuArquivoAtual/images
+    docs/pages/pastaDoMeuArquivoAtual/images
 ```
 
 ### Adicionar na wiki

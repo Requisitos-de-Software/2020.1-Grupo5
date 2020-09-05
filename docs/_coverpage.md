@@ -1,4 +1,4 @@
-![logo](/assets/images/logo/miaAjudaLogo&Name.png)
+![logo](/assets/logo/miaAjudaLogo&Name.png)
 
 
 [Começar](/README.md)
