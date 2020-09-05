@@ -6,13 +6,13 @@ A decisão do grupo foi a de utilizar uma metodologia ágil, visto que todos os 
 
 Nossas issues não seguem um exato padrão, ou usam de um *template*, apesar do foco do rojeto ser outro, utilizamos as issues para estabelecer uma comunicação indireta com o grupo em relação as tarefas a serem desenvolvidas.
 
-![Issues](./assets/images/issues.png)
+![Issues](./images/issues.png)
 
 ## Labels
 
 Foram criadas novas labels além daquelas disponibilizadas pelo github, para que melhor se adequassem as issues.
 
-![Labels](./assets/images/labels.png)
+![Labels](./images/labels.png)
 
 Comunicação
 
