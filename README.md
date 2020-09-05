@@ -20,4 +20,9 @@ Matrícula| Membro | GitHub | E-mail
 17/0139981 | Danillo Goncalves de Souza | DanilloGS | danillosouza1704@gmail.com 
 17/0080307 | Matheus Amaral Moreira | Matheus-AM | mam.macacod@gmail.com 
 17/0122549 | Paulo Gonçalves Lima | paulogoncalveslima | paulogoncalves436@gmail.com 
-17/0113060 | Pedro Vítor de Salles Cella | pedro-cella | pedrovscella@gmail.com 
+17/0113060 | Pedro Vítor de Salles Cella | pedro-cella | pedrovscella@gmail.com   
+
+<br/>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/proxy/F0cDoHXYLu_vUhOY0TH7uJp8W8tLefExOsDdGqyadxivclO4uWC3lnEOl07wk-DURelk5emL9WXNm0Ap-u7-wr3AML2NiO4_vaJj" alt="Logo FGA" width="20%"/>
+</p>
