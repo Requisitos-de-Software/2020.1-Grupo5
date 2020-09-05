@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Metodologia]()
+* [Metodologia](metodologia.md)
 * [Pré-Rastreabilidade]()
 * [Elicitação]()
 ---
