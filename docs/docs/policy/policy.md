@@ -10,12 +10,12 @@
 
 - Deve ser clara e direta, o objetivo é informar somente o necessário para a realização da tarefa.
 
-#### Tasks
+#### Critérios de aceitação
 
-- As tasks irão representar os critérios de aceitação da *issue*.
-- [ ] Task A
-- [ ] Task B
-- [ ] Task C
+- Os critérios de aceitação da *issue* são o guia para que a issue seja finalizada.
+- [ ] Critério A
+- [ ] Critério B
+- [ ] Critério C
 
 - A *issue* só estará completa depois que todos os critérios de aceitação terem sido cumpridos.
 
@@ -77,12 +77,12 @@
 
 ### Descrição
 
-- A descrição do *pull request* deve ser escrito de forma clara e objetiva.
+- A descrição do *pull request* deve ser escrito de forma clara e objetiva. O que foi resolvido, quais issues foram resolvidas e quais eram os critérios de aceitação.
 
 **Exemplo**
 
 ```
-    Este pull request resolve a issue #<NumeroDaIssue> as seguintes tarefas foram cumpridas
+    Este pull request resolveu a issue#<NumeroDaIssue> de tal forma e os critérios de aceitação eram
     * Task A;
     * Task B;
     * ...
