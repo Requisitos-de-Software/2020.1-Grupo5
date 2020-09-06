@@ -37,5 +37,5 @@
 |:-:|:-:|:-:|:-:|
 |02/09/2020|0.1|Criação do documento ferramentas do time|Paulo Gonçalves Lima|
 |03/09/2020|0.2|Pequena alteração de acordo com a revisão descrita na issue [#10](https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda/issues/10#event-3721704041)|Paulo Gonçalves Lima|
-|05/09/2020|0.3|Ajuste dos titulos de cada seção|Paulo Gonçalves Lima|
+|05/09/2020|0.3|Ajuste dos títulos de cada seção|Paulo Gonçalves Lima|
 |06/09/2020|0.4|Ajuste de algumas descrições e do corpo das imagens|Danillo Souza|
