@@ -1,11 +1,12 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Metodologia](/pages/Methodology/Methodology)
-* [Pré-Rastreabilidade]()
-* [Ferramentas do time](/pages/teamTools/teamTools)
-* [Elicitação]()
-* [Policy](/pages/policy/policy)
+* [Home](/README)
+* [Metodologia](/pages/methodology/methodology)
+<!-- * [Pré-Rastreabilidade]() -->
+* [Ferramentas](/pages/teamTools/teamTools)
+<!-- * [Elicitação]() -->
+* [Politica](/pages/policy/policy)
+
 ---
 
 * Links
