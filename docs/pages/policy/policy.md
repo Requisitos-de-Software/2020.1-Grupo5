@@ -36,7 +36,7 @@
 **Exemplo:**
 
 ```
-    [#9]_define_points
+    9_define_points
 ```
 
 - Se houver a necessidade de uma branch de correção, o seu nome não terá o um número, mas a *tag* de *HotFix* seguida do erro que foi corrigido.
