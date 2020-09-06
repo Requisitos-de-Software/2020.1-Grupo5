@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/README)
-* [Metodologia](/pages/methodology/methodology)
+* [Metodologia](/pages/Methodology/Methodology)
 <!-- * [Pré-Rastreabilidade]() -->
 * [Ferramentas](/pages/teamTools/teamTools)
 <!-- * [Elicitação]() -->
