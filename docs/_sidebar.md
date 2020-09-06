@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Metodologia]()
+* [Planejamento do Projeto](/planejamento)
 * [Pré-Rastreabilidade]()
 * [Elicitação]()
 ---
