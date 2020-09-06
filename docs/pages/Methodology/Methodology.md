@@ -10,7 +10,7 @@ Para poder contribuir no projeto deve-se seguir o padrão, previamente estabelec
 
 Foram criadas novas labels além daquelas disponibilizadas pelo github, para que melhor se adequassem as issues.
 
-![Labels](./images/labels.png)
+![Labels](./Images/labels.png)
 
 ## Reuniões
 
