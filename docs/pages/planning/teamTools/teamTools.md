@@ -6,13 +6,13 @@
 
 ### [Discord](https://discord.com/)
 
-![Discord](./images/DiscordLogo.png ':size=250')
+![Discord](./Images/DiscordLogo.png ':size=250')
 
 - O Discord é utilizado por nossa equipe para que realizemos nossas *dailies* e *plannings* ao decorrer do projeto.
 
 ### [Telegram](https://telegram.org/)
 
-![Telegram Logo](./images/TelegramLogo.png ':size=100')
+![Telegram Logo](./Images/TelegramLogo.png ':size=100')
 
 - O Telegram é utilizado para que todos os membros do grupo consigam se comunicar de forma mais rápida. Pode-se discutir os horários das reuniões, mandar avisos e mais.
 
