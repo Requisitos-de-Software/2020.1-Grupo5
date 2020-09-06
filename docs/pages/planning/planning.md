@@ -6,11 +6,11 @@ Planejamento do prejeto é o documento que busca tratar tudo o que será feito d
 ## No nosso projeto
 A etapa 0 do nosso projeto teve como finalidade organizar e predefinir as etapas, dependêncais e objetivos do desenvolvimento do projeto. Para isso, foi feito o uso de cronogramas e foram estabelecidas metodologias e ferramentas.
 
-* [Metodologia](/Methodology/Methodology)
+* [Metodologia](/pages/planning/Methodology/Methodology)
 
-* [Ferramentas](/teamTools/teamTools)
+* [Ferramentas](/pages/planning/teamTools/teamTools)
 
-* [Cronograma](/schedule/schedule)
+* [Cronograma](/pages/planning/schedule/schedule)
 
 ---
 |Data|Versão|Descrição|Autor|
