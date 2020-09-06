@@ -4,13 +4,13 @@ A decisão do grupo foi a de utilizar uma metodologia ágil, visto que todos os 
 
 ## Regras para contribuição
 
-Para poder contribuir no projeto deve-se seguir o padrão, previamente estabelecido, no documento de [Politicas](../../policy/policy). O documento sitado possui as normas de contribuição do projeto.
+Para poder contribuir no projeto deve-se seguir o padrão, previamente estabelecido, no documento de [Politicas](/pages/policy/policy). O documento sitado possui as normas de contribuição do projeto.
 
 ## Labels
 
 Foram criadas novas labels além daquelas disponibilizadas pelo github, para que melhor se adequassem as issues.
 
-![Labels](./images/labels.png)
+![Labels](./Images/labels.png)
 
 ## Reuniões
 

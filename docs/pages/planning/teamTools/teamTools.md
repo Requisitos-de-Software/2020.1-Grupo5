@@ -6,6 +6,7 @@
 
 ### [Discord](https://discord.com/)
 
+
 ![Discord](./Images/DiscordLogo.png ':size=100')
 
 - O Discord é utilizado por nossa equipe para que realizemos nossas *dailies* e *plannings* ao decorrer do projeto.
