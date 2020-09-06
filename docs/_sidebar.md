@@ -6,7 +6,7 @@
 * [Ferramentas](/pages/teamTools/teamTools)
 <!-- * [Elicitação]() -->
 * [Politica](/pages/policy/policy)
-
+* [Cronograma](/pages/schedule/schedule)
 ---
 
 * Links
