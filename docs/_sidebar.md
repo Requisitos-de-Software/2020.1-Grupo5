@@ -1,12 +1,15 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/README)
-* [Metodologia](/pages/Methodology/Methodology)
+* [Planejamento de projeto](/pages/planning/planning)
+    * [Metodologia](/pages/planning/Methodology/Methodology)
+    * [Ferramentas](/pages/planning/teamTools/teamTools)
+    * [Cronograma](/pages/planning/schedule/schedule)
+
 <!-- * [Pré-Rastreabilidade]() -->
-* [Ferramentas](/pages/teamTools/teamTools)
 <!-- * [Elicitação]() -->
+
 * [Politica](/pages/policy/policy)
-* [Cronograma](/pages/schedule/schedule)
 ---
 
 * Links
