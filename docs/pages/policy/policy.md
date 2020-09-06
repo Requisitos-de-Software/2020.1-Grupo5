@@ -44,7 +44,7 @@
 **Exemplo:**
 
 ```
-    [HotFix]_grammar_error_archive_x
+    HotFix_grammar_error_archive_x
 ```
 
 ## Commits
@@ -127,3 +127,4 @@
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |05/09/2020|0.1|Criação do documento de políticas de contribuição|Danillo Souza|
+|06/09/2020|0.2|Pequena mudança no padrão de nomes das branches|Paulo Gonçalves Lima|
