@@ -14,6 +14,6 @@
 ---
 
 * Links
-* [Apresentações](/pages/Presentations/Presentations)
+* [Apresentações](./pages/presentations/presentations)
 * [Repositório](https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda)
 * [Página do App](https://miaajuda.netlify.app/)
