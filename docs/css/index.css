@@ -2,3 +2,15 @@ h1.app-name {
   width: 50%;
   align-self: center;
 }
+
+div, iframe {
+  width: 640px;
+  height: 360px;
+  margin: 0 auto;
+  background-color: #777;
+}
+
+iframe {
+  display: block;
+  border-style:none;
+}
