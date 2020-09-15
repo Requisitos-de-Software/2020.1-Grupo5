@@ -1,4 +1,4 @@
-# Sprint 0
+# Sprint 1
 
 Data: 01/09/2020  
 
@@ -23,11 +23,11 @@ Cada integrante introduziu um pouco sobre o que está mais familiarizado em faze
 
 ---
 
-| Presentes na reunião 1        | status |
-| ----------------------------- | :----: |
+| Presentes na reunião         | status |
+| ---------------------------- | :----: |
 | Ailamar Alves Guimaraes       | ok |
 | Danillo Goncalves de Souza    | ok |
 | Matheus Amaral Moreira        | ok |
 | Paulo Gonçalves Lima          | ok |
 | Pedro Vítor de Salles Cella   | ok |
-| **Duração**                   | 01:13:20 |
+| **Duração**                   | 01 hr 13 min |
