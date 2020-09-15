@@ -22,6 +22,7 @@ Data: 01/09/2020
 Cada integrante introduziu um pouco sobre o que está mais familiarizado em fazer em seus projetos facilitando assim a divisão de tarefas. Ao final ficou dividido a parte que cada um deveria fazer até a entrega do trabalho, quais seriam as duplas e as ferramentas que o grupo pretende usar.
 
 ---
+
 | Presentes na reunião 1        | status |
 | ----------------------------- | :----: |
 | Ailamar Alves Guimaraes       | ok |
