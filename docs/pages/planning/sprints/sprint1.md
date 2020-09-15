@@ -17,7 +17,11 @@ Data: 01/09/2020
    - Falar sobre o que deverá ser feito até a primeira entrega da apresentação do projeto, data limite 21/09 - IHC e 07/09  Requisitos
 
 ---
+## Conclusões
 
+Cada integrante introduziu um pouco sobre o que está mais familiarizado em fazer em seus projetos facilitando assim a divisão de tarefas. Ao final ficou dividido a parte que cada um deveria fazer até a entrega do trabalho, quais seriam as duplas e as ferramentas que o grupo pretende usar.
+
+---
 | Presentes na reunião 1        | status |
 | ----------------------------- | :----: |
 | Ailamar Alves Guimaraes       | ok |

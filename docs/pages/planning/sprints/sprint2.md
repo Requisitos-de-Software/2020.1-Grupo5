@@ -7,12 +7,21 @@ Data: 08/09/2020
 - Feedbacks da equipe;
 - Objetivo da sprint 2 em Requisitos;
 - Falar sobre a segunda apresentação de Requisitos;
-- Definir quais tarefas os membros deverão realizar (Elicitação de Requisitos - Técnicas (Matheus, Pedro Vítor) e Priorização (Danillo, Ailamar));
+- Definir quais tarefas os membros deverão realizar;
 - Atualização da Wiki;
 - Exclusão da Wiki do GitHub; (excluir wiki)
 - Redefinição das datas do Cronograma;
 - Definição do horário das dailys; (13 hrs)
 - RichPicture do aplicativo;
+
+---
+## Conclusões
+
+- Foi decidido nessa reunião que para a segunda apresentação as duplas seriam para a documentação de elicitação de requisitos: Técnicas: Matheus e Pedro Vítor
+Priorização: Danillo e Ailamar
+Revisão e ajuda: Paulo Gonçalves
+- Támbem ficou decidido como fazer a segunda apresentação e sobre apagar a wiki que inicialmente era feita no github e deixar toda documentação somente na página.
+- Por último estabilizamos os horarios das dailys para 13 horas.
 
 ---
 
