@@ -1,4 +1,4 @@
-# Sprint 0
+# Sprint 1
 
 Data: 01/09/2020  
 
@@ -17,12 +17,17 @@ Data: 01/09/2020
    - Falar sobre o que deverá ser feito até a primeira entrega da apresentação do projeto, data limite 21/09 - IHC e 07/09  Requisitos
 
 ---
+## Conclusões
 
-| Presentes na reunião 1        | status |
-| ----------------------------- | :----: |
+Cada integrante introduziu um pouco sobre o que está mais familiarizado em fazer em seus projetos facilitando assim a divisão de tarefas. Ao final ficou dividido a parte que cada um deveria fazer até a entrega do trabalho, quais seriam as duplas e as ferramentas que o grupo pretende usar.
+
+---
+
+| Presentes na reunião         | status |
+| ---------------------------- | :----: |
 | Ailamar Alves Guimaraes       | ok |
 | Danillo Goncalves de Souza    | ok |
 | Matheus Amaral Moreira        | ok |
 | Paulo Gonçalves Lima          | ok |
 | Pedro Vítor de Salles Cella   | ok |
-| **Duração**                   | 01:13:20 |
+| **Duração**                   | 01 hr 13 min |

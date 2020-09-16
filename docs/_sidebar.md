@@ -1,14 +1,12 @@
 <!-- docs/_sidebar.md -->
 * [Home](/README)
 * [Planejamento de projeto](/pages/planning/planning)
-* Rastreabilidade
-  * Pré-rastreabilidade
-    * [RichPicture](/pages/traceability/preTraceability/RichPicture)
-  * Pós-rastreabilidade
-* Elicitação
-  * Requisitos
-  * Priorização
-* Modelagem
+* Sprints
+  * [Sprint 1](/pages/planning/sprints/sprint1)
+  * [Sprint 2](/pages/planning/sprints/sprint2)
+* Pré-rastreabilidade
+  * [RichPicture](/pages/preTraceability/RichPicture)
+* Pós-rastreabilidade
 
 ---
 
