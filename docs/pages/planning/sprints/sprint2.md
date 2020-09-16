@@ -15,6 +15,7 @@ Data: 08/09/2020
 - RichPicture do aplicativo;
 
 ---
+
 ## Conclusões
 
 - Foi decidido nessa reunião que para a segunda apresentação as duplas seriam para a documentação de elicitação de requisitos: Técnicas: Matheus e Pedro Vítor
@@ -34,14 +35,14 @@ Revisão e ajuda: Paulo Gonçalves
 | Pedro Vítor de Salles Cella | ok |
 | **Duração** | 29 min |
 
---- 
+---
 
 ### Critérios de aceitação
 
-- [ ] Todos os tópicos listados no planejamento foram discutidos. 
-- [ ] Todas as decisões pendentes foram tomadas.
-- [ ] Foi distribuído tarefas para todos os integrantes.
+- Todos os tópicos listados no planejamento foram discutidos
+- Todas as decisões pendentes foram tomadas
+- Foi distribuído tarefas para todos os integrantes
 
 ### Link do Plano de ensino
- 
+
 [Plano de Ensino de Requisitos](https://aprender3.unb.br/pluginfile.php/426680/mod_resource/content/2/Plano_de_Ensino%20RE%2012020TerQui.pdf)
