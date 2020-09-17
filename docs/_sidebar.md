@@ -6,7 +6,6 @@
   * [Sprint 2](/pages/planning/sprints/sprint2)
 * Pré-rastreabilidade
   * [RichPicture](/pages/preTraceability/RichPicture)
-* Pós-rastreabilidade
 
 ---
 
