@@ -6,6 +6,9 @@
   * [Sprint 2](/pages/planning/sprints/sprint2)
 * Pré-rastreabilidade
   * [RichPicture](/pages/preTraceability/RichPicture)
+  * [5W2H](/pages/preTraceability/5w2h)
+* Elicitação de Requisitos
+  * [Brainstorming](/pages/elicitations/brainstorming)
 
 ---
 
