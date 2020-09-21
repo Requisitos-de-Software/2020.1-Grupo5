@@ -4,6 +4,7 @@
 * Sprints
   * [Sprint 1](/pages/planning/sprints/sprint1)
   * [Sprint 2](/pages/planning/sprints/sprint2)
+  * [Sprint 3](/pages/planning/sprints/sprint3)
 * Pré-rastreabilidade
   * [RichPicture](/pages/preTraceability/RichPicture)
   * [5W2H](/pages/preTraceability/5w2h)
