@@ -1,5 +1,3 @@
-# App Mia Ajuda
-
 <p align="center">
   <img src="https://i.imgur.com/5wtqEys.png" alt="Logo Mia Ajuda" width="50%"/>
 </p>
