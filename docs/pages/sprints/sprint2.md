@@ -14,7 +14,6 @@ Data: 08/09/2020
 - Definição do horário das dailys; (13 hrs)
 - RichPicture do aplicativo;
 
----
 
 ## Conclusões
 
