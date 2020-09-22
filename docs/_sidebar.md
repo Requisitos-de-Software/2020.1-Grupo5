@@ -10,6 +10,7 @@
   * [5W2H](/pages/preTraceability/5w2h)
 * Elicitação de Requisitos
   * [Brainstorming](/pages/elicitations/brainstorming)
+  * [Storytelling](/pages/elicitations/storytelling)
 
 ---
 
