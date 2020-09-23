@@ -4,9 +4,11 @@
 * Pré-rastreabilidade
   * [RichPicture](/pages/preTraceability/RichPicture)  
 * Elicitação de Requisitos
+  * [MoSCoW](/pages/elicitations/moscow)
   * [Brainstorming](/pages/elicitations/brainstorming)
   * [Introspecção](/pages/elicitations/introspection)
   * [5W2H](/pages/elicitations/5w2h)
+
 ---
 
 * [Politica](/pages/policy/policy)
