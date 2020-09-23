@@ -12,7 +12,6 @@ Data: 15/09/2020
 - Problemas com a sidebar da Wiki;
 - Explicação em relação as Issues de Criação de Pauta da Reunião.
 
----
 
 ## Conclusões
 
