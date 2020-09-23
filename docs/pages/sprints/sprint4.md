@@ -6,13 +6,14 @@ Data: 22/09/2020
 
 - Feedback das tarefas semanais;
 - Apresentação 2 (o que devemos entregar na data 28/09);
-- Execução do Brainstorm;
+- Execução do Brainstorming;
 - O que faremos na sprint 4 (objetivos e tarefas);
 
 
 ## Conclusões
 
-
+Os integrantes relataram o que fizeram na semana e o que ainda estava pendente. Estipulamos um prazo para finalizar essas pendencias até o dia anterior que está marcado a reunião para a gravar a segunda apresentação (próxima sexta-feira às 10h).
+Também listamos novas tarefas para a semana e no final foi feito o brainstorming.
 
 ---
 

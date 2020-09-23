@@ -93,6 +93,7 @@ Com essa diversidade de sugestões e conclusões levantas pode-se encontrar pont
 |:--------:|:---:|:-------------------:|:-----------------------:|
 |18/09/2020| 0.1 | Criação do documento| Ailamar Alves Guimarães
 |22/09/2020| 0.2 | Adição dos discursos levantados na reunião | Ailamar Alves Guimarães  
+  
 </br>
 
 ### Referências
