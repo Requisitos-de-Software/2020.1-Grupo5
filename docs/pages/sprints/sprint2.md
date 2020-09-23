@@ -1,4 +1,4 @@
-# Sprint 1
+# Sprint 2
 
 Data: 08/09/2020
 
@@ -14,7 +14,6 @@ Data: 08/09/2020
 - Definição do horário das dailys; (13 hrs)
 - RichPicture do aplicativo;
 
----
 
 ## Conclusões
 
