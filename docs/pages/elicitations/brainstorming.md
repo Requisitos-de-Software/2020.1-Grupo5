@@ -89,7 +89,7 @@ Com essa diversidade de sugestões e conclusões levantadas pode-se encontrar po
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|
-|18/09/2020| 0.1 | Criação do escopo do documento| Ailamar Alves
+|18/09/2020| 0.1 | Criação do escopo do documento| Ailamar Alves e Matheus Amaral
 |22/09/2020| 0.2 | Adição dos discursos levantados na reunião | Ailamar Alves
   
 </br>
