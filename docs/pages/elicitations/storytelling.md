@@ -21,14 +21,16 @@ As dívidas de José  começam a se acumular e o dinheiro do auxílio emergencia
 
 Um dia estava em casa conversando pelo telefone, com meu irmão Vitor, e comentei com ele como estavam difíceis as coisas na minha casa, quando, para minha surpresa, ele disse que ficou sabendo de um aplicativo que reúne pessoas que querem oferecer ajuda e pessoas que precisam de ajuda, e me recomendou o Mia Ajuda. Assim que terminamos nosso bate papo, eu instalei em meu celular e criei um pedido de uma cesta básica. Depois de um tempo recebi uma oferta de ajuda da Mariana. Entrei em contato com essa moça e nós encontramos na praça próxima da minha casa. Agora aqui em casa tem comida o suficiente para essa semana, não sei o que eu faria se não tivesse ficado sabendo do Mia Ajuda.
 
-### História de Maria
+---
 
 |Persona|Dados|
 |:-:|:-:|
 |Nome|Maria|
 |Idade|62|
 |Profissão|Professora|
-|Doença|:----:|
+|Doença| - |
+
+### História de Maria
 
 Maria tem 62 anos, trabalha como professora, é mãe 1 filho adulto de classe média. Ela possui estabilidade financeira, e seu filho mora no exterior. Com a pandemia de COVID-19, ela se encontrou sozinha e tendo que permanecer em isolamento social.
 
@@ -41,4 +43,4 @@ O filho de Maria costumava ligar todo dia preocupado com a mãe, pelo fato dela 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:-------------:|
 |22/09/2020| 0.1 | Criação do documento| Danillo Souza |
-|25/09/2020| 0.2 | Adicionada a Maria  | Matheus Amaral |
+|25/09/2020| 0.2 | Adicionada a Maria  | Matheus Amaral|
