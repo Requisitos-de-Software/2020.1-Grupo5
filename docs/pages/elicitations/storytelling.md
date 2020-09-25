@@ -30,11 +30,11 @@ Um dia estava em casa conversando pelo telefone, com meu irmão Vitor, e comente
 
 ### História de Maria
 
-Maria têm 62 anos, trabalha como professora, é mãe 1 filho adulto de classe media. Ela possui estabilidade finaceira, e seu filho mora no exterior. Com a pandemia de COVID-19, ela se encontrou sozinha e tendo que permanecer em isolamento social.
+Maria tem 62 anos, trabalha como professora, é mãe 1 filho adulto de classe média. Ela possui estabilidade financeira, e seu filho mora no exterior. Com a pandemia de COVID-19, ela se encontrou sozinha e tendo que permanecer em isolamento social.
 
-Maria é do grupo de risco e tem medo de sair de casa, mas precisa sair pois, tambem não tem muitas pessoas de confiança para poder fazer as tarefas de contato social por ela.
+Maria é do grupo de risco e tem medo de sair de casa, mas precisa sair pois, também não tem muitas pessoas de confiança para poder fazer as tarefas de contato social por ela.
 
-O filho de Maria costumava ligar todo dia preocupado com a mãe, pelo fato dela morar longe e ela ter que sair sempre que precisasse de algo. Ele sempre tenta convencer ela de conhecer gente de confiança que faça compras e transportes por ela, mas ela se nega a ter que conhecer gente nova. O filho dela procurando por solução, achou o aplicativo Mia Ajuda que a pessoa pode ser ajudada por pessoas e agentes sociais mais proximos da região. A mãe após muito esforço tentou usar o aplicativo. E achou o contato de alguns conhecidos da vizinhança, se familiarizando com pessoas que podem ajudá-la.
+O filho de Maria costumava ligar todo dia preocupado com a mãe, pelo fato dela morar longe e ela ter que sair sempre que precisasse de algo. Ele sempre tenta convencer ela de conhecer gente de confiança que faça compras e transportes por ela, mas ela se nega a ter que conhecer gente nova. O filho dela procurando por solução, achou o aplicativo Mia Ajuda que a pessoa pode ser ajudada por pessoas e agentes sociais mais próximos da região. A mãe após muito esforço tentou usar o aplicativo. E achou o contato de alguns conhecidos da vizinhança, se familiarizando com pessoas que podem ajudá-la.
 
 
 
