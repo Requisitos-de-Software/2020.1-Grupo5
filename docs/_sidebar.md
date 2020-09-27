@@ -8,7 +8,7 @@
   * [Brainstorming](/pages/elicitations/brainstorming)
   * [Introspecção](/pages/elicitations/introspection)
   * [MoSCoW](/pages/elicitations/moscow)
-  * [Storytelling](/pages/elicitations/storytelling)
+  * [Storytelling](/pages/elicitations/storytelling/storytelling)
 
 ---
 
