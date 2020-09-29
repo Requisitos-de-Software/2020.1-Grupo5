@@ -4,7 +4,7 @@
 
 - Storytelling é uma técnica de criação de narrativas, que também, pode ser utilizada para que o engenheiro de software identifique o público alvo de seu projeto, qual é o problema que deve ser resolvido e como ele pode ser resolvido. Dessa forma pode ser elicitar os requisitos do software
 
-## Personas
+## Histórias
 
 |Persona|Dados|
 |:-:|:-:|
