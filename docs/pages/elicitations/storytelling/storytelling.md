@@ -21,6 +21,8 @@ As dívidas de José  começam a se acumular e o dinheiro do auxílio emergencia
 
 Um dia estava em casa conversando pelo telefone, com meu irmão Vitor, e comentei com ele como estavam difíceis as coisas na minha casa, quando, para minha surpresa, ele disse que ficou sabendo de um aplicativo que reúne pessoas que querem oferecer ajuda e pessoas que precisam de ajuda, e me recomendou o Mia Ajuda. Assim que terminamos nosso bate papo, eu instalei em meu celular e criei um pedido de uma cesta básica. Depois de um tempo recebi uma oferta de ajuda da Mariana. Entrei em contato com essa moça e nós encontramos na praça próxima da minha casa. Agora aqui em casa tem comida o suficiente para essa semana, não sei o que eu faria se não tivesse ficado sabendo do Mia Ajuda.
 
+![Jose](./Images/storyboardjose.png)
+
 ---
 
 |Persona|Dados|
@@ -38,9 +40,13 @@ Maria é do grupo de risco e tem medo de sair de casa, mas precisa sair pois, ta
 
 O filho de Maria costumava ligar todo dia preocupado com a mãe, pelo fato dela morar longe e ela ter que sair sempre que precisasse de algo. Ele sempre tenta convencer ela de conhecer gente de confiança que faça compras e transportes por ela, mas ela se nega a ter que conhecer gente nova. O filho dela procurando por solução, achou o aplicativo Mia Ajuda que a pessoa pode ser ajudada por pessoas e agentes sociais mais próximos da região. A mãe após muito esforço tentou usar o aplicativo. E achou o contato de alguns conhecidos da vizinhança, se familiarizando com pessoas que podem ajudá-la.
 
+![Maria](./Images/maria2.png)
 
+
+### Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:-------------:|
 |22/09/2020| 0.1 | Criação do documento| Danillo Souza |
 |25/09/2020| 0.2 | Adicionada a Maria  | Matheus Amaral|
+|27/09/2020| 0.3 | Adicionando storyboard do José  | Pedro Vítor de Salles Cella|

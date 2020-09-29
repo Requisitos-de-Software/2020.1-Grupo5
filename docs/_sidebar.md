@@ -13,8 +13,6 @@
     * [Questionário](/pages/elicitations/survey/survey)
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
-
-
 ---
 
 * [Politica](/pages/policy/policy)
