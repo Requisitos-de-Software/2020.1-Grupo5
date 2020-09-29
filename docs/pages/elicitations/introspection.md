@@ -6,8 +6,8 @@
  
 ## Requisitos
  
-|Número|Requisito|Priorização|
-|:-:|:-:|:-:|
+|Número|Requisito|
+|:-:|:-:|
 |1|O usuário deve ser capaz de escolher sua localização no mapa|
 |2|O usuário deve ser capaz de pedir ajuda para outros usuários|
 |3|O usuário deve ser capaz de oferecer ajuda a outros usuários|

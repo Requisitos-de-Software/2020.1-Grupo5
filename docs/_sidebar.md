@@ -5,12 +5,15 @@
   * [RichPicture](/pages/preTraceability/RichPicture)  
 * Elicitação de Requisitos
   * Técnicas
+    * [5W2H](/pages/elicitations/5w2h)
     * [Brainstorming](/pages/elicitations/brainstorming)
     * [Introspecção](/pages/elicitations/introspection)
+    * [MoSCoW](/pages/elicitations/moscow)
+    * [Storytelling](/pages/elicitations/storytelling)
     * [Questionário](/pages/elicitations/survey/survey)
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
-    * [5W2H](/pages/elicitations/5w2h)
+
 
 ---
 
