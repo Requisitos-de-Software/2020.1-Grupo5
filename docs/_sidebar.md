@@ -8,7 +8,7 @@
     * [5W2H](/pages/elicitations/5w2h)
     * [Brainstorming](/pages/elicitations/brainstorming)
     * [Introspecção](/pages/elicitations/introspection)
-    * [Storytelling](/pages/elicitations/storytelling)
+    * [Storytelling](/pages/elicitations/storytelling/storytelling)
     * [Questionário](/pages/elicitations/survey/survey)
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
