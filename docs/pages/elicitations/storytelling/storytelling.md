@@ -40,7 +40,7 @@ Maria é do grupo de risco e tem medo de sair de casa, mas precisa sair pois, ta
 
 O filho de Maria costumava ligar todo dia preocupado com a mãe, pelo fato dela morar longe e ela ter que sair sempre que precisasse de algo. Ele sempre tenta convencer ela de conhecer gente de confiança que faça compras e transportes por ela, mas ela se nega a ter que conhecer gente nova. O filho dela procurando por solução, achou o aplicativo Mia Ajuda que a pessoa pode ser ajudada por pessoas e agentes sociais mais próximos da região. A mãe após muito esforço tentou usar o aplicativo. E achou o contato de alguns conhecidos da vizinhança, se familiarizando com pessoas que podem ajudá-la.
 
-![Maria](./Images/maria2.png)
+![Maria](./Images/storyboardmaria.png.png)
 
 
 ### Versionamento
