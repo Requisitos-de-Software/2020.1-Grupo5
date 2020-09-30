@@ -12,6 +12,8 @@
     * [Questionário](/pages/elicitations/survey/survey)
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
+* Modelagem
+  * [Léxico](/pages/modeling/lexicon)
 ---
 
 * [Politica](/pages/policy/policy)
