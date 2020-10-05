@@ -14,6 +14,7 @@
     * [MoSCoW](/pages/elicitations/moscow)
 * Modelagem
   * [Léxico](/pages/modeling/lexicon)
+  * [Cenários](/pages/modeling/scenario)
 ---
 
 * [Politica](/pages/policy/policy)
