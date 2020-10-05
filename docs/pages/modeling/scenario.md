@@ -10,7 +10,7 @@ A técnica funciona com a criação de narrativas que descrevem umaeposódio esp
 Na criação dos nossos cenários utilizamos o seguinte modelo base apresentado abaixo:  
 
 Tópico | Descrição 
-:----- | --------:
+:----: | :--------
 **Título**   | Nome breve para o cenário
 **Objetivo** | Finalidade da história 
 **Contexto** | Local, tempo e pré-condição da história
