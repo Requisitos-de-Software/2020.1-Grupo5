@@ -15,6 +15,8 @@
 * Modelagem
   * [Léxico](/pages/modeling/lexicon)
   * [Caso de Uso](/pages/modeling/useCase/useCase)
+  * [Especificação Suplementar](/pages/modeling/specification)
+
 ---
 
 * [Politica](/pages/policy/policy)
