@@ -1,11 +1,11 @@
 # Introspecção
- 
+
 ## Introdução
- 
+
 - A introspecção é um técnica de elicitar requisitos, no qual, o engenheiro se imagina utilizando o software no lugar do usuário para identificar quais as necessidades que o projeto deve possuir.
- 
+
 ## Requisitos
- 
+
 |Número|Requisito|
 |:-:|:-:|
 |1|O usuário deve ser capaz de escolher sua localização no mapa|
@@ -39,10 +39,7 @@
 |29|O E-mail do usuário deve ser validado ao criar uma nova conta|
 |30|As ajudas do usuário devem ser apagadas depois de um tempo limite|
 |31|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|
- 
+
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:-----------------------:|
 |22/09/2020| 0.1 | Criação do documento| Danillo Souza e Paulo Gonçalves |
- 
-
-
