@@ -40,6 +40,9 @@ O *app* deve apresentar mensagens quando alguma coisa não ocorre como o esperad
 ### Consistência e Padronização
  
 O *app* deve seguir um padrão visual de cores e símbolos para que o usuário não se perca e sinta-se confortável.
+
+### Idioma
+O idioma da aplicação se deve ser a língua falada no país ou com o idioma pré-configurado no dispositivo móvel, caso não seja possivel identificar alguma lingua por esses dois meios se deve usar ingles como idioma da aplicação.
  
 ## Confiabilidade
  
@@ -83,8 +86,15 @@ O hardware deve ser capaz de fazer a comunicação com o servidor, acessara a in
  
 O sistema deve possuir uma comunicção entre as diversas requisições de dados do sistema, mantendo a integridade de todas as requisições.
 
+## Requisitos de Licenciamento 
+
+### Termos de Uso
+
+O sistema deve ter uma politica de uso sobre os daddos dos usuarios, seus direitos e explicando a razão de coletar dados do usuario.
+
+
 ---
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |06/10/2020|0.1|Criação do arquivo de Especificação Suplementar|Danillo Souza|
-|06/10/2020|0.2|Adicionado a Confiabilidade, Desempenho, Interfaces|Paulo Gonçalves Lima|
+|06/10/2020|0.2|Adicionado a Confiabilidade, Desempenho, Interface, idioma e requisitos de licenciamento|Paulo Gonçalves Lima|
