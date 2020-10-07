@@ -13,7 +13,7 @@ Data: 6/10/2020
 
 ## Conclusões
 
-Após cada membro relatar o que fez de modo geral durante essa semana, levantamos o que ainda precisava ser finalizado em relação à Modelagem de Requisitos e Especificação Suplementar. Algumas tarefas ainda estavam precisando de ajustes e devem ser terminadas estritamente até o dia seguinte. Também ficou decido se teríamos tempo para acrescentar tópicos extras como perfil de usuario e personas ao nosso projeto. Ao final ficou decidido que a próxima apresentação será feita na quinta-feira (08/10) às 10 horas. 
+Após cada membro relatar o que fez de modo geral durante essa semana, levantamos o que ainda precisava ser finalizado e revisado em relação à Modelagem de Requisitos e Especificação Suplementar. Como algumas tarefas ainda estavam precisando de ajustes o prazo foi aumentado mas devem ser terminadas estritamente até o dia seguinte. Também especulamos a ideia de se teríamos tempo para acrescentar tópicos extras como perfil de usuário e personas ao nosso projeto, mas concluímos que isso seria inviável para essa apresentação devido ao cronograma. Ao final ficou decidido que a próxima gravação da entrega será feita na quinta-feira (08/10) às 10 horas. 
 
 ---
 
