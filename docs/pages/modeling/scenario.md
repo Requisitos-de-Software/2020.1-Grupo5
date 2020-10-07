@@ -158,8 +158,7 @@ Tópico | Descrição
 **Objetivo** | Notificar o usuário que seu pedido de ajuda será atendido
 **Contexto** | Local: na página de confirmação do Mia Ajuda<br/>Tempo: horas depois do pedido de ajuda<br/>Pré-condição: alguem aceitar ajudar
 **Ator(es)** | Usuário ajudante e usuário ajudado
-**Recurso**  | Acesso ao aplicativo
-**Restrição** | Estar com o telefone ligado e conectado na intenet
+**Recurso**  | Acesso ao aplicativo<br/> acesso à internet
 **Episódio** | Usuário ajudante procurar alguem para ajudar<br/> Usuário ajudante achar e aceitar um pedido de ajuda<br/> Chegar a notificação no aplicativo de quem pediu a ajuda
 
 ### C12 - Procurar pedido de ajuda
@@ -170,11 +169,20 @@ Tópico | Descrição
 **Contexto** | Local: em casa<br/>Tempo: de manhã<br/>Pré-condição: estar com a internet e GPS ligados
 **Ator(es)** | Usuário
 **Recurso**  | Acesso ao aplicativo
-**Restrição** | Estar com o telefone ligado, conectado na intenet e o aparelho ter GPS
 **Exceção**  | Não ter nenhuma ajuda pendente ao redor
 **Episódio** | O usuário vai abrir o aplicativo e colocar sua localização e o raio de distância<br/> O aplicativo vai mostrar todas as ajudas disponiveis dentro do raio de distância ao redor da localização do usuário
 
 ### C13 - Sair do aplicativo
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Sair de uma conta logada
+**Contexto** | Local: em casa<br/>Tempo: qualquer hora<br/>Pré-condição: estar logado no aplicativo
+**Ator(es)** | Usuário logado
+**Recurso**  | Acesso ao aplicativo<br/> Acesso à internet<br/> 
+**Restrição** | Estar logado no aplicativo
+**Exceção**  | Cair a internet antes de completar a saida<br/> O aplicativo ser encerrado antes de sair
+**Episódio** | Usuário abre o aplicativo<br/> Vai na seção de perfil<br/> Procura a opção de sair<br/> Confirma que quer sair
 
 
 ---
