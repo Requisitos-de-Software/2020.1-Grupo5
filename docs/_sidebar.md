@@ -13,10 +13,10 @@
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
 * Modelagem
-  * [Léxico](/pages/modeling/lexicon)
-  * [Cenários](/pages/modeling/scenario)
   * [Caso de Uso](/pages/modeling/useCase/useCase)
+  * [Cenários](/pages/modeling/scenario)
   * [Especificação Suplementar](/pages/modeling/specification)
+  * [Léxico](/pages/modeling/lexicon)
 
 
 * [Politica](/pages/policy/policy)
