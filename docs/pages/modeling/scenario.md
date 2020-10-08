@@ -193,6 +193,7 @@ Tópico | Descrição
 |:--:|:----:|:-------:|:---:|
 |3/10/2020| 0.1| Criação do escopo do documento| Ailamar Alves Guimarães|
 |5/10/2020| 0.2| Adição dos cenários C1 a C10 | Ailamar Alves Guimarães|
+|7/10/2020| 0.3| Adição dos cenários C11 a C13 | Matheus Amaral Moreira|
 
 ### Referências 
 
