@@ -9,6 +9,7 @@ Um cenário é um ambiente criado pela equipe de projeto para representar situa�
 A técnica funciona com a criação de narrativas que descrevem um episódio específico que necessitam do uso da tecnologia do nosso projeto. Assim criamos uma breve história de uma cena bem detalhada com atores para simular a situação.<br/><br/>
 **Na criação dos nossos cenários utilizamos o seguinte modelo base:**  
 <br/>
+
 Tópico | Descrição 
 :----: | :--------
 **Título**   | Nome breve para o cenário
