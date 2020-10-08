@@ -15,7 +15,9 @@
 * Modelagem
   * [Léxico](/pages/modeling/lexicon)
   * [Cenários](/pages/modeling/scenario)
----
+  * [Caso de Uso](/pages/modeling/useCase/useCase)
+  * [Especificação Suplementar](/pages/modeling/specification)
+
 
 * [Politica](/pages/policy/policy)
 * Sprints
@@ -24,6 +26,7 @@
   * [Sprint 3](/pages/sprints/sprint3)
   * [Sprint 4](/pages/sprints/sprint4)
   * [Sprint 5](/pages/sprints/sprint5)
+  * [Sprint 6](/pages/sprints/sprint6)
 * [Apresentações](./pages/presentations/presentations)
 * [Repositório](https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda)
 * [Página do App](https://miaajuda.netlify.app/)
