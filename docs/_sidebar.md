@@ -17,7 +17,7 @@
   * [Cenários](/pages/modeling/scenario)
   * [Especificação Suplementar](/pages/modeling/specification)
   * [Léxico](/pages/modeling/lexicon)
-
+  * [NFR Framework](/pages/modeling/framework)
 
 * [Politica](/pages/policy/policy)
 * Sprints
@@ -27,6 +27,7 @@
   * [Sprint 4](/pages/sprints/sprint4)
   * [Sprint 5](/pages/sprints/sprint5)
   * [Sprint 6](/pages/sprints/sprint6)
+  * [Sprint 7](/pages/sprints/sprint7)
 * [Apresentações](./pages/presentations/presentations)
 * [Repositório](https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda)
 * [Página do App](https://miaajuda.netlify.app/)
