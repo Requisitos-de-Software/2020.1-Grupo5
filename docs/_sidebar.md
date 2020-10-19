@@ -13,6 +13,7 @@
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
 * Modelagem
+  * [Backlog](/pages/modeling/backlog/backlog)
   * [Caso de Uso](/pages/modeling/useCase/useCase)
   * [Cenários](/pages/modeling/scenario)
   * [Especificação Suplementar](/pages/modeling/specification)
