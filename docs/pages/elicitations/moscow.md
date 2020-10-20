@@ -50,6 +50,9 @@
 |13|As ajudas do usuário devem ser apagadas depois de um tempo limite|Could|
 |14|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|Would|
 |15|Se deve avisar ao usuário caso o sistema esteja *offline* e ter uma estimativa de volta.|
+
+---
+
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:-----------------------:|
 |23/09/2020| 0.1 | Criação do documento | Ailamar Alves, Danillo Souza, Matheus Amaral, Paulo Gonçalves, Pedro Cella |
