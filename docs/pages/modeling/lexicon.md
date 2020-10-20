@@ -113,6 +113,9 @@ Trata-se de uma técnica que descreve os símbolos de uma linguagem. Esses símb
 |Verbo|Desconectar da conta|O usuário desconecta da conta em seu aparelho|*Logout*, Desconectar
 
 ---
+
+## Versionamento
+
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |02/10/2020|0.1|Criação do documento de léxico|Danillo Souza|
