@@ -12,21 +12,21 @@ O Mia Ajuda foi criado com o intuito de aproximar pessoas que precisam de ajuda 
 
 |Número|Requisito|
 |:-:|:-:|
-|9|O usuário deve ser capaz de criar diversos pedidos de ajuda|
-|13|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda|
-|14|O usuário deve ser capaz de visualizar seu histórico de ajudas|
-|15|O usuário deve ser capaz de trocar sua senha quando solicitado|
-|16|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19|
-|17|O usuário deve ser capaz de informar que é um profissional da saúde mental|
-|20|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários|
-|21|O E-mail do usuário não pode se repetir|
-|22|O CPF do usuário não pode se repetir|
-|26|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita|
-|27|O usuário deve ter um limite de pedidos de ajuda abertos simultaneamente|
-|29|O E-mail do usuário deve ser validado ao criar uma nova conta|
-|30|As ajudas do usuário devem ser apagadas depois de um tempo limite|
-|31|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|
-|32|Se deve avisar ao usuário caso o sistema esteja *offline* e ter uma estimativa de volta.||
+|RNF01|O usuário deve ser capaz de criar diversos pedidos de ajuda|
+|RNF02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda|
+|RNF03|O usuário deve ser capaz de visualizar seu histórico de ajudas|
+|RNF04|O usuário deve ser capaz de trocar sua senha quando solicitado|
+|RNF05|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19|
+|RNF06|O usuário deve ser capaz de informar que é um profissional da saúde mental|
+|RNF07|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários|
+|RNF08|O E-mail do usuário não pode se repetir|
+|RNF09|O CPF do usuário não pode se repetir|
+|RNF10|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita|
+|RNF11|O usuário deve ter um limite de pedidos de ajuda abertos simultaneamente|
+|RNF12|O E-mail do usuário deve ser validado ao criar uma nova conta|
+|RNF13|As ajudas do usuário devem ser apagadas depois de um tempo limite|
+|RNF14|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|
+|RNF15|Se deve avisar ao usuário caso o sistema esteja *offline* e ter uma estimativa de volta.|
 
 ## Usabilidade
 
