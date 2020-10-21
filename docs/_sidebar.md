@@ -29,6 +29,7 @@
   * [Sprint 5](/pages/sprints/sprint5)
   * [Sprint 6](/pages/sprints/sprint6)
   * [Sprint 7](/pages/sprints/sprint7)
+  * [Sprint 8](/pages/sprints/sprint8)
 * [Apresentações](./pages/presentations/presentations)
 * [Repositório](https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda)
 * [Página do App](https://miaajuda.netlify.app/)
