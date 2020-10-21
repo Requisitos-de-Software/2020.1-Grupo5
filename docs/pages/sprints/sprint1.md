@@ -25,7 +25,7 @@ Cada integrante introduziu um pouco sobre o que está mais familiarizado em faze
 
 | Presentes na reunião         | status |
 | ---------------------------- | :----: |
-| Ailamar Alves Guimaraes       | ok |
+| Ailamar Alves Guimarães       | ok |
 | Danillo Goncalves de Souza    | ok |
 | Matheus Amaral Moreira        | ok |
 | Paulo Gonçalves Lima          | ok |
