@@ -19,7 +19,7 @@ Após cada membro relatar o que fez de modo geral durante essa semana, levantamo
 
 | Presentes na reunião    | status |
 | ----------------------- | :----: |
-| Ailamar Alves Guimaraes  | ok  |
+| Ailamar Alves Guimarães  | ok  |
 | Danillo Goncalves de Souza | ok |
 | Matheus Amaral Moreira   | ok |
 | Paulo Gonçalves Lima     | ok |

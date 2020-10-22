@@ -19,7 +19,7 @@ Também listamos novas tarefas para a semana e no final foi feito o brainstormin
 
 | Presentes na reunião    | status |
 | ----------------------- | :----: |
-| Ailamar Alves Guimaraes  | ok  |
+| Ailamar Alves Guimarães  | ok  |
 | Danillo Goncalves de Souza | ok |
 | Matheus Amaral Moreira   | ok |
 | Paulo Gonçalves Lima     | ok |

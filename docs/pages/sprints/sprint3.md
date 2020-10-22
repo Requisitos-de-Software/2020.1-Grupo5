@@ -22,7 +22,7 @@ Após definir as ferramentas, foram distribídas as tarefas para cada integrante
 
 | Presentes na reunião    | status |
 | ----------------------- | :----: |
-| Ailamar Alves Guimaraes  | ok  |
+| Ailamar Alves Guimarães  | ok  |
 | Danillo Goncalves de Souza | ok |
 | Matheus Amaral Moreira   | ok |
 | Paulo Gonçalves Lima     | ok |
