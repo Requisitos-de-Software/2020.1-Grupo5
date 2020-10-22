@@ -40,6 +40,8 @@
 |30|As ajudas do usuário devem ser apagadas depois de um tempo limite|
 |31|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|
 
+## Versionamento
+
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:-----------------------:|
 |22/09/2020| 0.1 | Criação do documento| Danillo Souza e Paulo Gonçalves |

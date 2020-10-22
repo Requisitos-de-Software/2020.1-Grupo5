@@ -85,7 +85,7 @@ Com essa diversidade de sugestões e conclusões levantadas pode-se encontrar po
 
 ---
 
-### Versionamento
+## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|

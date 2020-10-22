@@ -23,7 +23,7 @@ Léxico - Item <i>Editar perfil</i>
 
 ![Geral](./images/usecase.png)
 
-### Versionamento
+## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------: |:-----------------------:|

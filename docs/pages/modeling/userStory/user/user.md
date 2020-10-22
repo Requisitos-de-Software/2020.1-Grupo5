@@ -29,7 +29,7 @@
 #### Critérios de Aceitação
 - Deve ter um botão que abra a câmera do usuário.
 - O usuário deve ser capaz de tirar uma nova sempre que não estiver satisfeita com a mesma.
-- Deve possuir um botão para continuar o cadastro.
+- Deve possuir um botão para continuar o [cadastro](/pages/modeling/lexicon?id=cadastrar).
  
 ### US05: Informar se faço parte do grupo de risco da COVID-19
 - Eu, como usuário, gostaria de informar se faço parte do grupo de risco da COVID-19.
@@ -37,43 +37,43 @@
 #### Critérios de Aceitação
 - Deve possuir uma lista com as características do grupo de risco da COVID-19.
 - O usuário deve ser capaz de escolher nenhuma ou diversas características dos grupos de risco da COVID-19.
-- Deve possuir um botão para continuar o cadastro.
+- Deve possuir um botão para continuar o [cadastro](/pages/modeling/lexicon?id=cadastrar).
  
 ### US06: Informar o número do meu celular
 - Eu, como usuário, gostaria de informar o número do meu celular para que outros usuários entrem em contato comigo.
 
 #### Critérios de Aceitação
 - Deve possuir um campo especial para coletar o número de celular do usuário.
-- Deve possuir um botão para continuar o cadastro.
+- Deve possuir um botão para continuar o [cadastro](/pages/modeling/lexicon?id=cadastrar).
  
 ## Gerenciar
  
 ### US07: Alterar minha foto cadastrada
-- Eu, como usuário, gostaria de alterar minha foto cadastrada.
+- Eu, como usuário, gostaria de [alterar](/pages/modeling/lexicon?id=editar-perfil) minha foto cadastrada.
 
 #### Critérios de Aceitação
-- Deve haver uma página para editar dados cadastrados.
+- Deve haver uma página para [editar](/pages/modeling/lexicon?id=editar-perfil) dados cadastrados.
 - Deve haver um botão específico para trocar a foto.
-- A foto do usuário pode ser editada a qualquer momento.
+- A foto do usuário pode ser [editada](/pages/modeling/lexicon?id=editar-perfil) a qualquer momento.
  
 ### US08: Alterar o número do meu celular cadastrado
-- Eu, como usuário, gostaria de alterar o número do meu celular cadastrado.
+- Eu, como usuário, gostaria de [alterar](/pages/modeling/lexicon?id=editar-perfil) o número do meu celular cadastrado.
 
 #### Critérios de Aceitação
-- Deve haver uma página para editar dados cadastrados.
-- Deve haver um campo especial para editar o número de celular do usuário.
-- O usuário pode editar o número de celular a qualquer momento.
+- Deve haver uma página para [editar](/pages/modeling/lexicon?id=editar-perfil) dados cadastrados.
+- Deve haver um campo especial para [editar](/pages/modeling/lexicon?id=editar-perfil) o número de celular do usuário.
+- O usuário pode [editar](/pages/modeling/lexicon?id=editar-perfil) o número de celular a qualquer momento.
  
 ### US09: Alterar o meu endereço cadastrado
-- Eu, como usuário, gostaria de alterar o meu endereço cadastrado.
+- Eu, como usuário, gostaria de [alterar](/pages/modeling/lexicon?id=editar-perfil) o meu endereço cadastrado.
 
 #### Critérios de Aceitação
-- Deve haver uma página para editar dados cadastrados.
-- Deve haver um campo especial para edição do endereço (CEP, Logradouro, Bairro, Cidade, Estado e Número).
-- O usuário pode editar o seu endereço a qualquer momento.
+- Deve haver uma página para [editar](/pages/modeling/lexicon?id=editar-perfil) dados cadastrados.
+- Deve haver um campo especial para [edição](/pages/modeling/lexicon?id=editar-perfil) do endereço (CEP, Logradouro, Bairro, Cidade, Estado e Número).
+- O usuário pode [editar](/pages/modeling/lexicon?id=editar-perfil) o seu endereço a qualquer momento.
  
 ### US10: Alterar minha senha quando solicitado
-- Eu, como usuário, gostaria de alterar minha senha quando solicitado.
+- Eu, como usuário, gostaria de [alterar](/pages/modeling/lexicon?id=editar-perfil) minha senha quando solicitado.
 
 #### Critérios de Aceitação
 - Deve haver um botão de "Esqueci minha senha" na página de [login](/pages/modeling/lexicon?id=login).

@@ -91,6 +91,8 @@ As requisições do sistema devem ser, todas, a partir do acesso com a internet.
 O sistema deve possuir uma política de uso. O documento deve explicar como os dados do usuário estão sendo coletados, o porquê estão sendo coletados, o que está sendo feito com essas informações e quais os direitos e deveres que os individuos cadastrados possuem dentro da plataforma.
 
 ---
+## Versionamento
+
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |06/10/2020|0.1|Criação do arquivo de Especificação Suplementar|Danillo Souza|

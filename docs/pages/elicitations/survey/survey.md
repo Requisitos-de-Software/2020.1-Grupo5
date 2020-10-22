@@ -91,7 +91,7 @@ Foi criado um termo de uso, para explicar à aqueles que fariam o questionário 
 |11| Ter uma forma de lembrar para o usuário que o aplicativo "Existe" | Should |
 |12| Os usuários gostariam de saber mais informações sobre quem estaria sendo beneficiado pela ajuda | Must |
 
-### Versionamento
+## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------: |:-----------------------:|
