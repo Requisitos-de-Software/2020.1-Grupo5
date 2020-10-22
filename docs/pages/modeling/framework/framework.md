@@ -35,7 +35,14 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 
 ## Modelagens NFR's
 
-## Legendas
+### Legendas
+
+<p align="center">
+  <img src="./images/legenda4.png" alt="Logo Mia Ajuda" width="40%"/>
+  <br/><br/>
+  <img src="./images/legenda3.png" alt="Logo Mia Ajuda" width="50%"/>
+
+</p>
 
 ### NFR01 Geral
 
@@ -66,6 +73,7 @@ Versionamento
 |16/10/2020|0.1|Criação do escopo do documento|Ailamar Alves
 |21/10/2020|0.2|Adição da lista de NFR e legendas|Ailamar Alves
 
+<br/>
 Referências
 
 - Requisitos - Modelagem. SERRANO, Milene; SERRANO, Maurício. Disponível em: <https://aprender3.unb.br/pluginfile.php/426768/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: out 2020.
