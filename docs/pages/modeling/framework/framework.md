@@ -38,9 +38,9 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 ### Legendas
 
 <p align="center">
-  <img src="./images/legenda4.png" alt="Logo Mia Ajuda" width="40%"/>
+  <img src="./images/legenda4.PNG" alt="Figuras 1 e 2" width="40%"/>
   <br/><br/>
-  <img src="./images/legenda3.png" alt="Logo Mia Ajuda" width="50%"/>
+  <img src="./images/legenda3.PNG" alt="Figura 3" width="50%"/>
 
 </p>
 
