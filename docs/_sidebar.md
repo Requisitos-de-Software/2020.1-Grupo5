@@ -13,13 +13,14 @@
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
 * Modelagem
+  * [Histórias de Usuário](/pages/modeling/userStory/userStory)
   * [Caso de Uso](/pages/modeling/useCase/useCase)
   * [Cenários](/pages/modeling/scenario)
   * [Especificação Suplementar](/pages/modeling/specification)
   * [Léxico](/pages/modeling/lexicon)
   * [NFR Framework](/pages/modeling/framework)
-
-
+  
+  
 * [Politica](/pages/policy/policy)
 * Sprints
   * [Sprint 1](/pages/sprints/sprint1)
