@@ -38,11 +38,22 @@ Trata-se de uma técnica que descreve os símbolos de uma linguagem. Esses símb
 |:-:|:-:|:-:|:-:|
 |Objeto|Tipo de ajuda que foi cadastrada|Categoriza ajudas tornando possível a filtragem|Tipo do pedido
 
+### E-mail
+
+|Tipo|Noção|Impacto|Sinônimos|
+|:-:|:-:|:-:|:-:|
+|Objeto|Correio eletrônico|O cadastro do usuário só se torna possível a partir de um E-mail|Gmail, Outlook, Yahoo
+
 ### Histórico
 
 |Tipo|Noção|Impacto|Sinônimos|
 |:-:|:-:|:-:|:-:|
 |Objeto|Lista de ajudas finalizadas|Assim que um pedido de ajuda for finalizado, o mesmo irá para um histórico onde o usuário pode ver todas suas ajudas já realizadas|Ajudas finalizadas|
+
+### Mapa
+|Tipo|Noção|Impacto|Sinônimos|
+|:-:|:-:|:-:|:-:|
+|Objeto|Página que fornece localização do usuário e pedidos de ajuda|Fornecer localizações importantes no app|Localizações|
 
 ### Pedido de ajuda
 
@@ -120,3 +131,5 @@ Trata-se de uma técnica que descreve os símbolos de uma linguagem. Esses símb
 |:-:|:-:|:-:|:-:|
 |02/10/2020|0.1|Criação do documento de léxico|Danillo Souza|
 |06/10/2020|0.2|Organizando léxico, adicionando novos tópicos e separando por categorias|Danillo Souza|
+|21/10/2020|0.3|Tópicos E-mail e Mapa adicionado|Danillo Souza|
+

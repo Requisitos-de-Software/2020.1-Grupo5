@@ -5,7 +5,7 @@
 
 ### Login
 
-- [US01: Realizar meu login no aplicativo com meu E-mail e senha](/pages/modeling/backlog/user/user.md)
+- [US01: Realizar login no aplicativo com E-mail](/pages/modeling/backlog/user/user.md)
 
 ### Cadastrar   
 
@@ -55,7 +55,7 @@
 |19/10/2020|0.1|Criou documento de Backlog|Paulo Gonçalves Lima|
 |19/10/2020|0.2|Adicionou tópicos no Épico de Usuários e na Feature de pedidos de ajuda|Danillo Souza|
 |20/10/2020|0.3|Adicionou tópicos na Feature de oferta de ajuda|Matheus Amaral Moreira|
-|20/10/2020|0.3|Inicio da priorização|Danillo Souza|
-|20/10/2020|0.3|Inicio da priorização|Danillo Souza|
-|20/10/2020|0.4|Inicio da priorização|Criação das páginas dos épicos|
+|20/10/2020|0.4|Inicio da priorização|Danillo Souza|
+|20/10/2020|0.5|Criação das páginas dos épicos|Danillo Souza|
+
 
