@@ -57,5 +57,3 @@
 |20/10/2020|0.3|Adicionou tópicos na Feature de oferta de ajuda|Matheus Amaral Moreira|
 |20/10/2020|0.4|Inicio da priorização|Danillo Souza|
 |20/10/2020|0.5|Criação das páginas dos épicos|Danillo Souza|
-
-
