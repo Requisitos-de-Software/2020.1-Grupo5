@@ -37,12 +37,10 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 
 ### Legendas
 
-<p align="center">
-  <img src="./images/legenda4.PNG" alt="Figuras 1 e 2" width="40%"/>
-  <br/><br/>
-  <img src="./images/legenda3.PNG" alt="Figura 3" width="50%"/>
+|![Figura1](./images/legenda1.png)|![Figura2](./images/legenda2.png)|
+|:-:|:-:|
 
-</p>
+![Figura3](./images/legenda3.png)
 <br>
 
 ### NFR01 Geral
