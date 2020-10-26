@@ -18,7 +18,7 @@
   * [Cenários](/pages/modeling/scenario)
   * [Especificação Suplementar](/pages/modeling/specification)
   * [Léxico](/pages/modeling/lexicon)
-  * [NFR Framework](/pages/modeling/framework)
+  * [NFR Framework](/pages/modeling/framework/framework)
   
   
 * [Politica](/pages/policy/policy)
