@@ -10,7 +10,7 @@ O Mia Ajuda foi criado com o intuito de aproximar pessoas que precisam de ajuda 
   
 ## Requisitos não funcionais
 
-|Número|Requisito|
+|Número|Requisitos|
 |:-:|:-:|
 |RNF01|O usuário deve ser capaz de criar diversos pedidos de ajuda|
 |RNF02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda|
