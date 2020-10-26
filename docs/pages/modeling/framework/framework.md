@@ -15,7 +15,7 @@ Para isso criamos uma abstração buscando atingir funcionalidades específicas,
 
 Esses são os Requisitos não Funcionais levantados a partir da [Introspecção](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/elicitations/introspection) que foram usados para criação do Framework:
 
-|RNF-XX|Requisito|
+|Número|Requisito|
 |:-:|:-:|
 |RNF-01|O usuário deve ser capaz de criar diversos pedidos de ajuda|
 |RNF-02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda|
