@@ -43,26 +43,28 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
   <img src="./images/legenda3.PNG" alt="Figura 3" width="50%"/>
 
 </p>
+<br>
 
 ### NFR01 Geral
-
-### NFR01 Propagação
+![NFR_Geral](./images/NFRGeral.png)
 
 ### NFR02 Desempenho
+![NFR_Desempenho](./images/NFRDesempenho.png)
 
 ### NFR02 Propagação
+![NFR_Prop_Desempenho](./images/NFRPropDesempenho.png)
 
 ### NFR03 Usabilidade
+![NFR_Usabilidade](./images/NFRUsabilidade.png)
 
 ### NFR03 Propagação
+![NFR_Prop_Usabilidade](./images/NFRPropUsabilidade.png)
 
 ### NFR04 Confiabilidade
+![NFR_Confiabilidade](./images/NFRConfiabilidade.png)
 
 ### NFR04 Propagação
-
-### NFR05 Suportabilidade
-
-### NFR05 Propagação
+![NFR_Prop_Confiabilidade](./images/NFRPropConfiabilidade.png)
 
 ---
 
@@ -70,8 +72,9 @@ Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|16/10/2020|0.1|Criação do escopo do documento|Ailamar Alves
-|21/10/2020|0.2|Adição da lista de NFR e legendas|Ailamar Alves
+|16/10/2020|0.1|Criação do escopo do documento|Ailamar Alves|
+|21/10/2020|0.2|Adição da lista de NFR e legendas|Ailamar Alves|
+|26/10/2020|0.3|Adição das imagens do NFR|Pedro Vítor de Salles Cella|
 
 <br/>
 Referências
