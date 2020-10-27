@@ -38,30 +38,39 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 ### Legendas
 
 <p align="center">
-  <img src="./images/legenda4.PNG" alt="Figuras 1 e 2" width="40%"/>
-  <br/><br/>
-  <img src="./images/legenda3.PNG" alt="Figura 3" width="50%"/>
-
+  <img src="./images/legendas.png" alt="Figuras 1 e 2" width="50%"/>
 </p>
 <br>
 
 ### NFR01 Geral
 ![NFR_Geral](./images/NFRGeral.png)
 
+--- 
+
 ### NFR02 Desempenho
 ![NFR_Desempenho](./images/NFRDesempenho.png)
+
+--- 
 
 ### NFR02 Propagação
 ![NFR_Prop_Desempenho](./images/NFRPropDesempenho.png)
 
+--- 
+
 ### NFR03 Usabilidade
 ![NFR_Usabilidade](./images/NFRUsabilidade.png)
+
+--- 
 
 ### NFR03 Propagação
 ![NFR_Prop_Usabilidade](./images/NFRPropUsabilidade.png)
 
+--- 
+
 ### NFR04 Confiabilidade
 ![NFR_Confiabilidade](./images/NFRConfiabilidade.png)
+
+--- 
 
 ### NFR04 Propagação
 ![NFR_Prop_Confiabilidade](./images/NFRPropConfiabilidade.png)
