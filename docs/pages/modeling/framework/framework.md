@@ -37,7 +37,7 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 
 ### Legendas
 
-![Figuras 1 e 2](../images/legendas.png.png)
+![Figuras 1 e 2](./images/legendas.png)
 
 <br>
 
