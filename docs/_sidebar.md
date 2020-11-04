@@ -13,13 +13,20 @@
   * Priorização
     * [MoSCoW](/pages/elicitations/moscow)
 * Modelagem
-  * [Histórias de Usuário](/pages/modeling/userStory/userStory)
   * [Caso de Uso](/pages/modeling/useCase/useCase)
   * [Cenários](/pages/modeling/scenario)
   * [Especificação Suplementar](/pages/modeling/specification)
+  * [Histórias de Usuário](/pages/modeling/userStory/userStory)
   * [Léxico](/pages/modeling/lexicon)
   * [NFR Framework](/pages/modeling/framework/framework)
-  
+* Análies
+  * Verificação
+    * [Caso de Uso](pages/analysis/verification/verificationUsecase.md)
+    * [Cenários](pages/analysis/verification/verificationScenario.md)
+    * [Histórias de Usuário](/pages/analysis/verification/verificationBacklog)
+    * [Léxico](pages/analysis/verification/verificationLexicon)
+    * [NFR Framework](pages/analysis/verification/verificationNFR)
+    * [RichPicture](pages/analysis/verification/verificationRichpicture.md)  
   
 * [Politica](/pages/policy/policy)
 * Sprints
