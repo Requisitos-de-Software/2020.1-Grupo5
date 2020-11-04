@@ -21,12 +21,13 @@
   * [NFR Framework](/pages/modeling/framework/framework)
 * Análies
   * Verificação
-    * [Caso de Uso](/pages/analysis/verification/verificationUsecase.md)
-    * [Cenários](/pages/analysis/verification/verificationScenario.md)
+    * [Caso de Uso](/pages/analysis/verification/verificationUsecase)
+    * [Cenários](/pages/analysis/verification/verificationScenario)
     * [Histórias de Usuário](/pages/analysis/verification/verificationBacklog)
     * [Léxico](/pages/analysis/verification/verificationLexicon)
     * [NFR Framework](/pages/analysis/verification/verificationNFR)
-    * [RichPicture](/pages/analysis/verification/verificationRichpicture.md)  
+    * [RichPicture](/pages/analysis/verification/verificationRichpicture)
+  * [Validação](/pages/analysis/validation)  
   
 * [Politica](/pages/policy/policy)
 * Sprints
