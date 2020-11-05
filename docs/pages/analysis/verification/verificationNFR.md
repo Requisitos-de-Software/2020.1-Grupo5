@@ -39,14 +39,19 @@ Para esse caso devemos analisar se existe algo de errado com nosso modelo já de
 
 |NFR Framework|Observações|
 |:-|:-|
-|NFR Geral|- Sem existência de impactos colaterais;<br>- Sem operadores que geram impactos em outros operadores;<br>- Sem existência de operadores (AND/OR);<br>- Sem operadores escritos com verbos;<br>- Não há critérios completamente satisfatórios;|
-|NFR Confiabilidade|- Sem existência de impactos colaterais;<br>- Não possui linkagens<br>- Não há critérios completamente satisfatórios;|
+|NFR Geral|- Sem existência de impactos colaterais;<br>- Sem operadores que geram impactos em outros operadores;<br>- Sem existência de operadores (AND/OR);<br>- Sem operadores escritos com verbos;<br>- Não há critérios completamente satisfatórios.|
+|NFR Confiabilidade|- Sem existência de impactos colaterais;<br>- Não possui linkagens<br>- Não há critérios completamente satisfatórios.|
 |NFR Desempenho|- Sem existência de impactos colaterais;<br>- Não há critérios completamente satisfatórios;|
-|NFR Usabilidade|- Não há critérios completamente satisfatórios;|
+|NFR Usabilidade|- Não há critérios completamente satisfatórios.|
+
+<br>
 
 ## Conclusão
 
+ Pela análise e observações do checklist, nota-se que os frameworks não abrangiram o suficiente para obter impacto colaterais, e a grande parte dos softgoals atingem apenas critérios parcialmente satisfatórios.  
+ É possível fazer uma nova versão do Framework Geral que atinja mais itens, mas apesar das deficiência dos outros três isso não quer dizer que seja um problema no framework, pois a satisfação não alcançada é devido as funcionalidades do aplicativo.
 
+---
 
 ## Versionamento
 
@@ -60,4 +65,4 @@ Para esse caso devemos analisar se existe algo de errado com nosso modelo já de
 
 ## Referências
 
-[Página de verificação dos RichPictures do grupo Audible - 2019.2](https://requisitos-de-software.github.io/2019.2-Audible/verificacao_nfr/)
+- [Página de verificação dos RichPictures do grupo Audible - 2019.2](https://requisitos-de-software.github.io/2019.2-Audible/verificacao_nfr/)

@@ -2,7 +2,11 @@
  
 ## Introdução
 Este documento tem como intuito demonstrar, utilizando do processo de verificação, possíveis erros feitos durante o processo de modelagem, nesse caso serão verificado os casos de uso utilizando de uma checklist que possui perguntas relacionadas a detalhes que deveriam estar constando no documento de Backlog.
- 
+
+## Metodologia
+
+Para esse caso devemos analisar se existe algo de errado com nosso modelo já desenvolvido em termos de notação, processo e procedimentos executados. Assim avaliamos se o documento está de acordo com o que é esperado dele utilizando as estratégias apresentadas abaixo. O grupo optou para isso a utilização de checklist pela eficácia em conjunto com as questões elaboradas. Ao final serão revisados e corrigidos os itens defeituosos no documento em questão.
+
 ## Checklist
  
 ### Backlog Geral
@@ -49,7 +53,8 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |US02, US03, US06, US13, US15, US22, US23, US24, US25, US27|- Necessita de melhorias nos critérios de aceitação|
  
 ## Conclusão
-- Pela análise do checklist, percebe-se que todas as histórias de usuário carecem de pontuação e de objetivos em seu backlog, além de que grande parte das histórias também necessitam de melhorias nos seus critérios de aceitação.
+
+Pela análise do checklist, percebe-se que todas as histórias de usuário carecem de pontuação e de objetivos em seu backlog, além de que grande parte das histórias também necessitam de melhorias nos seus critérios de aceitação.
  
 ## Versionamento
  
@@ -61,5 +66,5 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
  
 ## Referências
  
-[Página de verificação dos RichPictures do grupo Audible - 2019.2](https://requisitos-de-software.github.io/2019.2-Audible/verificacao_agil/)
+- [Página de verificação dos RichPictures do grupo Audible - 2019.2](https://requisitos-de-software.github.io/2019.2-Audible/verificacao_agil/)
 
