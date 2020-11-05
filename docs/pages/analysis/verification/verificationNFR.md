@@ -2,6 +2,12 @@
 
 ## Introdução
 
+Esse documento visa a verificação do artefato [!NFR Framework](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/framework/framework), ou seja, uma avaliação da situação atual do documento corrigindo falhas e adicioando especificações que estiverem em falta. Para isso devemos considerar como sendo uma análise de modelos, desempenhada com as regras bem definidas e de fácil entendimento.
+
+## Metodologia
+
+Para esse caso devemos analisar se existe algo de errado com nosso modelo já desenvolvido em termos de notação, processo e procedimentos executados. Assim avaliamos se o documento está de acordo com o que é esperado dele utilizando as estratégias apresentadas abaixo. O grupo optou para isso a utilização de checklist pela eficácia em conjunto com as questões elaboradas. Ao final serão revisados e corrigidos os itens defeituosos no documento em questão.
+
 ## Questões
 
 ## Checklist
@@ -47,6 +53,9 @@
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |02/11/2020|0.1|Criação do documento|Pedro Vítor de Salles Cella|
+|05/11/2020|0.2|Descrição da Introdução e Metodoliga |Ailamar Alves Guimarães|
+
+<br/>
 
 ## Referências
 
