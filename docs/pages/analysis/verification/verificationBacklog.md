@@ -15,7 +15,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |4. A pontuação de cada sprint foi definida seguindo algum tipo de padronização?|X|
 |5. As User Story foram elaboradas seguindo um modelo e/ou um padrão?|OK|
 |6. Possui versionamento?|OK|
-|Porcentagem de sucesso|67%|
+|**Porcentagem de sucesso**|**67%**|
  
 ### História de Usuário
  
@@ -28,7 +28,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |3.A história qualifica critérios de aceitação?|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |4.Os critérios de aceitação bem descritos e coerentes com a User Story?|OK|X|X|OK|OK|X|OK|OK|OK|OK|OK|
 |5.Os objetivos descritos estão de acordo com a User Story e seu épico?|X|X|X|X|X|X|X|X|X|X|X|
-|Porcentagem de sucesso|60%|40%|40%|60%|60%|40%|60%|60%|60%|60%|60%|
+|**Porcentagem de sucesso**|**60%**|**40%**|**40%**|**60%**|**60%**|**40%**|**60%**|**60%**|**60%**|**60%**|**60%**|
  
 #### Ajuda
  
@@ -39,7 +39,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |3.A história qualifica critérios de aceitação|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |4.Os critérios de aceitação bem descritos e coerentes com a User Story|OK|OK|X|OK|X|OK|OK|OK|OK|OK|OK|X|X|X|X|OK|X|
 |5.Os objetivos descritos estão de acordo com a User Story e seu épico|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-|Porcentagem de sucesso|60%|60%|40%|60%|40%|60%|60%|60%|60%|60%|60%|40%|40%|40%|40%|40%|40%|
+|**Porcentagem de sucesso**|**60%**|**60%**|**40%**|**60%**|**40%**|**60%**|**60%**|**60%**|**60%**|**60%**|**60%**|**40%**|**40%**|**40%**|**40%**|**40%**|**40%**|
  
 ## Observações
  

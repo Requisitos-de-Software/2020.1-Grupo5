@@ -19,7 +19,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |7. As informações são suficientes para entendimento do léxico?|X|X|X|OK|
 |8. Segue a ordem de dados estabelecida?(Classificação/Noção/Impacto/Sinônimos)|OK|OK|OK|OK|
 |9. Possui versionamento?|OK|OK|OK|OK|
-|Porcentagem de sucesso|67%|78%|78%|100%|
+|**Porcentagem de sucesso**|**67%**|**78%**|**78%**|**100%**|
  
 <br>
  
@@ -36,7 +36,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |7. As informações são suficientes para entendimento do léxico?|X|OK|OK|OK|X|OK|
 |8. Segue a ordem de dados estabelecida?<br>(Classificação/Noção/Impacto/Sinônimos)|OK|OK|OK|OK|OK|OK|
 |9. Possui versionamento?|OK|OK|OK|OK|OK|OK|
-|Porcentagem de sucesso|78%|100%|78%|100%|56%|89%|
+|**Porcentagem de sucesso**|**78%**|**100%**|**78%**|**100%**|**56%**|**89%**|
  
 <br>
  
@@ -53,7 +53,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |7. As informações são suficientes para entendimento do léxico?|OK|X|OK|OK|X|X|OK|X|OK|
 |8. Segue a ordem de dados estabelecida?<br>(Classificação/Noção/Impacto/Sinônimos)|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |9. Possui versionamento?|OK|OK|OK|OK|OK|OK|OK|OK|OK|
-|Porcentagem de sucesso|89%|67%|100%|100%|78%|78%|100%|78%|100%|
+|**Porcentagem de sucesso**|**89%**|**67%**|**100%**|**100%**|**78%**|**78%**|**100%**|**78%**|**100%**|
  
 <br>
  

@@ -17,7 +17,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |8. O caso de uso segue a formatação padrão no modelo proposto?|OK|OK|OK|
 |9. Possui rastreabilidade?|OK|OK|OK|
 |10. Possui versionamento?|OK|OK|OK|
-|Porcentagem de Sucesso|90%|90%|80%|
+|**Porcentagem de Sucesso**|**90%**|**90%**|**80%**|
 
 <br>
 
