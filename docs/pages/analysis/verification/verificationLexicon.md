@@ -44,7 +44,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
  
 |Item|Abrir serviços externos|Ajuda|Cadastrar|Editar Perfil|Filtrar Pedidos de Ajuda|Finalizar Ajuda|Login|Oferta|Sair|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1. Possui título?|OK|OK|OK|OK|OK|OK|OK|OK|V|
+|1. Possui título?|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |2. Usa linguagem compreensível?|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |3. Possui classificação correta?|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |4. Possui sinônimos corretos?|OK|OK|OK|OK|OK|OK|OK|OK|OK|
