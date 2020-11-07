@@ -19,7 +19,7 @@
   * [Histórias de Usuário](/pages/modeling/userStory/userStory)
   * [Léxico](/pages/modeling/lexicon)
   * [NFR Framework](/pages/modeling/framework/framework)
-* Análies
+* Análises
   * Verificação
     * [Caso de Uso](/pages/analysis/verification/verificationUsecase)
     * [Cenários](/pages/analysis/verification/verificationScenario)
