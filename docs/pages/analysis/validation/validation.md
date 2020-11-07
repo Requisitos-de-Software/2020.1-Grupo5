@@ -1,29 +1,24 @@
 # Validação
-
-## Introdução
-
-O NFR (Non-Functional Requirements) Framework trata-se de um framework conceitual para condução da Engenharia de Requisitos  com uma extensão que apoia suposições para avaliação de
-satisfação das metas-flexíveis.  
-Esse modelo foi criado por CHUNG (1995), e adota uma abordagem específica para o tratamento de Requisitos Não-Funcionais e fornece uma rica representação para expressar esses requisitos.
-
-## Metodologia 
-
-Como explicado acima, neste documento estamos focados nos Requisitos Não-Funcionais.
-Para isso criamos uma abstração buscando atingir funcionalidades específicas, fazendo análise das possíveis situações, considerando as aplicações e tecnologias já pré-existentes no aplicativo Mia Ajuda.
-
-## Modelagens NFR's
-
+ 
+## Prototipação
+ 
+### Metodologia
+Consiste em criar um protótipo para que a equipe de desenvolvedores tenha uma noção do que será apresentado no aplicativo final.
+ 
+![Mapa](/images/mapaPrototipo.png ':size=250px') ![Pedir](/images/pedirPrototipo.png ':size=245px') ![Oferecer](/images/oferecerPrototipo.png ':size=248px')
+ 
+## Validação informal
+ 
+### Metodologia
+Consiste em que a documentação seja avaliada pelo Stakeholder, para que o mesmo informe a equipe se o projeto está sendo documentado da forma correta para o seu processo de desenvolvimento.
+ 
+Até o momento, a documentação do grupo não foi avaliada.
+ 
 ---
-
-Versionamento 
-
+ 
+## Versionamento
+ 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|01/11/2020 |0.1|Criação do escopo do documento|Ailamar Alves|
-
-<br/>
-
-Referências
-
-- Requisitos - Modelagem. SERRANO, Milene; SERRANO, Maurício. Disponível em: <https://aprender3.unb.br/pluginfile.php/426768/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: out 2020.
-
+|01/11/2020|0.1|Criação do escopo do documento|Ailamar Alves|
+|07/11/2020|0.2|Adicionando protótipo do fluxo básico|Danillo Souza|
