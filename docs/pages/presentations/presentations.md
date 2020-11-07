@@ -62,3 +62,12 @@ Abaixo segue os vídeos das apresentações do semestre.
 ## Apresentação 5 - (9/11/20)
 
 **Entrega:** Análise de Requisitos: Verificação e Validação.
+
+<div>
+  <!-- Apresentação 4 -->
+  <iframe width="896" height="504" style="display: block;
+      border-style:none;  margin: 0 auto;"
+    src="https:/www.youtube.com/embed/WDXPDmh7Oa4">
+  </iframe>
+</div>
+
