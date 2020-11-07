@@ -23,7 +23,7 @@ Para esse caso devemos analisar se existe algo de errado com nosso modelo já de
 |8. Caso haja subcenários,<br>há a ligação deles com os episódios?|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|OK|
 |9. Possui rastreabilidade?|X|X|X|X|X|X|X|X|X|X|X|X|X|
 |10. Possui versionamento?|X|X|X|X|X|X|X|X|X|X|X|X|X|
-|Porcentagem de sucesso|80%|80%|70%|80%|80%|80%|70%|80%|70%|80%|60%|80%|80%|
+|**Porcentagem de sucesso**|**80%**|**80%**|**70%**|**80%**|**80%**|**80%**|**70%**|**80%**|**70%**|**80%**|**60%**|**80%**|**80%**|
 
 ## Observações
 
