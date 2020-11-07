@@ -19,7 +19,7 @@ Para esse caso devemos analisar se existe algo de errado com nosso modelo já de
 |5. As bordas de sistemas são linhas curvas fechadas com descrição?|X|OK|X|OK|OK|
 |6. O sistema está contido dentro das bordas do sistema?|OK|X|OK|X|OK|
 |7. Possui versionamento?|X|X|X|X|X|
-|Porcentagem de sucesso|43%|43%|71%|43%|86%|
+|**Porcentagem de sucesso**|**43%**|**43%**|**71%**|**43%**|**86%**|
 
 ## Observações
 
