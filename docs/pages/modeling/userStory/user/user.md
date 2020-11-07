@@ -15,13 +15,17 @@
 
 #### Critérios de Aceitação
 - Deve possuir [mapa](/pages/modeling/lexicon?id=mapa) com localização próxima do usuário.
+- Deve pode mudar sua localização para onde for de interesse do mesmo.
 - Deve possuir botão para confirmar posição do usuário.
+- Deve possuir um botão para continuar o [cadastro](/pages/modeling/lexicon?id=cadastrar).
  
 ### US03: Informar se sou um profissional da saúde ou um psicólogo
 - Eu, como usuário, gostaria de informar se sou um profissional da saúde ou um psicólogo.
 
 #### Critérios de Aceitação
 - Deve possui uma checkbox para confirmar se o usuário é um profissional ou psicólogo.
+- Deve estar na página de cadastrar as informações básicas do usuário.
+- Deve possuir um botão para continuar o [cadastro](/pages/modeling/lexicon?id=cadastrar).
  
 ### US04: Ter uma foto no meu perfil
 - Eu, como usuário, gostaria de ter uma foto no meu perfil para que outros usuários saibam quem sou.
@@ -44,6 +48,7 @@
 
 #### Critérios de Aceitação
 - Deve possuir um campo especial para coletar o número de celular do usuário.
+- Deve checar se é um número de telefone válido.
 - Deve possuir um botão para continuar o [cadastro](/pages/modeling/lexicon?id=cadastrar).
  
 ## Gerenciar
@@ -87,3 +92,4 @@
 |:-:|:-:|:-:|:-:|
 |20/10/2020|0.1|Criou extensão do backlog(Épico: Usuário)|Danillo Souza|
 |21/10/2020|0.2|Finalizou documento|Danillo Souza|
+|05/11/2020|0.3|Documento verificado e corrigido|Danillo Souza, Paulo Gonçalves|

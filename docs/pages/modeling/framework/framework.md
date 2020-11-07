@@ -43,7 +43,6 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 
 ### NFR01 Geral
 ![NFR_Geral](./images/NFRGeral.png)
-
 --- 
 
 ### NFR02 Desempenho
@@ -76,6 +75,15 @@ Esses são os Requisitos não Funcionais levantados a partir da [Introspecção]
 
 ---
 
+### Rastreabilidade
+
+|NFR Geral|Descrição|
+|:-:|:-:|
+|Versão|0.1|
+|Rastreabilidade|[Especificação Suplementar](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/specification) <br> [Introspecção](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/elicitations/introspection)|
+
+<br>
+
 Versionamento 
 
 |Data|Versão|Descrição|Autor|
@@ -83,6 +91,7 @@ Versionamento
 |16/10/2020|0.1|Criação do escopo do documento|Ailamar Alves|
 |21/10/2020|0.2|Adição da lista de NFR e legendas|Ailamar Alves|
 |26/10/2020|0.3|Adição das imagens do NFR|Pedro Vítor de Salles Cella|
+|05/11/2020|0.4|Adição da rastreabilidade do NFR|Ailamar Alves e Pedro Vítor de Salles Cella|
 
 <br/>
 Referências
