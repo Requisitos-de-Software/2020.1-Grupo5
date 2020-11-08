@@ -67,7 +67,7 @@ Abaixo segue os vídeos das apresentações do semestre.
   <!-- Apresentação 4 -->
   <iframe width="896" height="504" style="display: block;
       border-style:none;  margin: 0 auto;"
-    src="https:/www.youtube.com/embed/WDXPDmh7Oa4">
+    src="https://www.youtube.com/embed/hte8Z2rlB_U">
   </iframe>
 </div>
 
