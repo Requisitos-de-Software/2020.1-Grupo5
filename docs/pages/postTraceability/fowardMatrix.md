@@ -7,7 +7,7 @@ A técnica de Pós-Rastreabilidade Forward-Form visa ligar documentos obtidos no
 
 ## Metodologia
 
-A metodoogia escolhida para o desenvolvimento da matriz é a proposta de Toranzo para a rastreabilidade. As informações a serem rastreadas serão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento. Essa classificação é definida como:
+A metodologia escolhida para o desenvolvimento da matriz é a proposta de Toranzo para a rastreabilidade. As informações a serem rastreadas serão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento. Essa classificação é definida como:
 - Ambiental: informações de contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido;
 - Organizacional: informações pertencentes à organização (missão, objetivos e estratégias);
 - Gerencial: informações que auxiliam a gerência do projeto; e,
