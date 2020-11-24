@@ -261,7 +261,7 @@ A Matriz Backward-Form tem como função ser uma ferramenta de rastreabilidade, 
 |19/11/2020|0.1|Criação do documento|Pedro Vítor de Salles Cella|
 |23/11/2020|0.2|Adicionando origens da matriz de requisitos funcionais|Paulo Gonçalves Lima|
 |23/11/2020|0.3|Adicionando origens da matriz de requisitos não funcionais|Paulo Gonçalves Lima|
-|24/11/2020|0.3|Adicionando categorias e elos|Pedro Vítor de Salles Cella e Paulo Gonçalves Lima|
+|24/11/2020|0.3|Adicionando categorias e elos|Pedro Vítor de Salles Cella|
 
 ## Referências
 [DBD PUC Rio Pagina 12](http://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf)<br>
