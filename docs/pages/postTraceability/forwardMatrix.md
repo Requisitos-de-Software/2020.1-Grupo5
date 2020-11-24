@@ -47,20 +47,20 @@ representa um subsistema.
 |:-:|:-:|:-|:-|:-|:-|:-|:-|
 |RF-01|O usuário deve ser capaz de escolher sua localização no mapa| - | - | - | US02 | 
 |RF-02|O usuário deve ser capaz de pedir ajuda para outros usuários| - C1;<br>- C10;<br> - C11. | - Ajudas abertas;<br>- Ajudas finalizadas;<br>- Ajudas em Andamento. | [- Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br> []()  | US11 ||
-|RF-03|O usuário deve ser capaz de oferecer ajuda a outros usuários|||| US19 |
-|RF-04|O usuário deve ser capaz de finalizar uma ajuda quando quiser|||| *US13 |
+|RF-03|O usuário deve ser capaz de oferecer ajuda a outros usuários||| [- Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US19 |
+|RF-04|O usuário deve ser capaz de finalizar uma ajuda quando quiser|||||
 |RF-05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar|||| US14 |
-|RF-06|O usuário deve ser capaz de entrar em contato com o usuário que lhe ofereceu ajuda|||| *US06, US15, US24 |
+|RF-06|O usuário deve ser capaz de entrar em contato com o usuário que lhe ofereceu ajuda|||| US06, US15, US24 |
 |RF-07|O usuário deve ser capaz de finalizar um pedido de ajuda depois de ter sido ajudado|||| US16 |
-|RF-08|O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário|||| US20 |
+|RF-08|O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário||| [- Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US20 |
 |RF-10|O usuário deve ser capaz de visualizar seus pedidos de ajuda|||| US18 |
-|RF-11|O usuário deve ser capaz de visualizar suas ofertas de ajuda|||| US21 |
-|RF-12|O usuário deve ser capaz de visualizar os pedidos de ajuda de outros usuários no mapa|||
-|RF-13|O usuário deve ser capaz de dar um título ao pedido de ajuda|||| US12 |
-|RF-14|O usuário deve ser capaz de adicionar uma breve descrição ao pedido de ajuda|||| *US06 |
-|RF-15|O usuário pode editar seu telefone|||| US08 |
-|RF-16|O usuário pode editar seu endereço|||| US09 |
-|RF-17|O usuário pode editar sua foto de perfil|||| US07|
+|RF-11|O usuário deve ser capaz de visualizar suas ofertas de ajuda||| [- Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US21 |
+|RF-12|O usuário deve ser capaz de visualizar os pedidos de ajuda de outros usuários no mapa|||| US12 |
+|RF-13|O usuário deve ser capaz de dar um título ao pedido de ajuda|||
+|RF-14|O usuário deve ser capaz de adicionar uma breve descrição ao pedido de ajuda|||| US06 |
+|RF-15|O usuário pode editar seu telefone||| [- Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US08 |
+|RF-16|O usuário pode editar seu endereço||| [- Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US09 |
+|RF-17|O usuário pode editar sua foto de perfil||| [- Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US07 |
 |RF-18|O usuário deve ser capaz de logar e deslogar de sua conta quando quiser|||
 |RNF-01|O usuário deve ser capaz de criar diversos pedidos de ajuda|||
 |RNF-02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda|||
