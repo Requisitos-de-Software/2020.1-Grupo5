@@ -12,6 +12,33 @@ A Matriz Backward-Form tem como função ser uma ferramenta de rastreabilidade, 
 |EF|Elo Funcional|
 |ENF|Elo Não Funcional|
 
+<br>
+
+## Categorias do Meta-Modelo de Toranzo
+
+|Categoria|Descrição|
+|:-:|:-:|
+|Ambiental|informações oriundas do contexto no qual a organização está inserida|
+|Desenvolvimento|informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros)|
+|Gerencial|informações que auxiliam a gerência do projeto|
+|Organizacional|informações pertencentes à organização (missão, objetivos e estratégias)|
+
+<br>
+
+## Associações usadas para elaborar um modelo de rastreamento
+
+|Associação|Descrição|
+|:-:|:-:|
+|Agragação|Uma  associação  que  modela  um  relacionamento  todo-parte  entre  uma  classe, denominado todo,  e  uma  ou  mais  classes  que  são  denominadas  partes.|
+|Aloca|Uma    associação    uni-direcional    de    uma    classe,    que    representa requisitos   funcionais,   para   uma   outra   classe   que   representa   um subsistema.|
+|Generalização|Um  relacionamento  entre  um  elemento  geral  e  um   elemento   mais específico.  O  elemento  mais  específico  é  complemente  consistente com o elemento geral e contem informações adicionais.|
+|Recurso|Uma associação que especifica que uma classe possui uma dependência de informação ou física com outra classe|
+|Representação|Uma  associação  que  é  usada  para  mapear  um  elemento  em  um  outro elemento.|
+|Responsabilidade|Uma  associação  que  visa    capturar  a  participação,  responsabilidade  e ação      das   pessoas   sobre   artefatos   ou   elementos   do   processo   de software.|
+|Satisfação|A  associação  satisfação  é  uma  relação  de  dependência  que   especifica   que   a   classe   origem      tem   uma   dependência   de realização  com  a  classe  destino.  O  termo  realização    é  usado  para expressar  que  algo  deverá  ser  realizado  ou  feito  sobre  as  instâncias  da  classe  destino  para  satisfazer  as  instâncias  da  classe  origem  com  as quais estão conectadas.|
+
+
+
 ## Matriz de Requisitos Funcionais
 
 |ID|Requisito|Origem|Elo|
@@ -58,7 +85,174 @@ A Matriz Backward-Form tem como função ser uma ferramenta de rastreabilidade, 
 
 ## Elos Funcionais
 
+### **EF01**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF02**
+**Categoria Meta-Modelo:** Ambiental,Organizacional
+<br>
+**Elo:** 
+
+### **EF03**
+**Categoria Meta-Modelo:** Ambiental,Organizacional
+<br>
+**Elo:** 
+
+### **EF04**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF05**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF06**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF07**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF08**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF09**
+**Categoria Meta-Modelo:** Ambiental,Organizacional
+<br>
+**Elo:** 
+
+### **EF10**
+**Categoria Meta-Modelo:** Ambiental,Organizacional
+<br>
+**Elo:** 
+
+### **EF11**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF12**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF13**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF14**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF15**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF16**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF17**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **EF18**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+<br>
+
 ## Elos Não Funcionais
+
+### **ENF01**
+**Categoria Meta-Modelo:** Desenvolvimento,Organizacional
+<br>
+**Elo:** 
+
+### **ENF02**
+**Categoria Meta-Modelo:** Desenvolvimento,Organizacional
+<br>
+**Elo:** 
+
+### **ENF03** 
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF04**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF05**
+**Categoria Meta-Modelo:** Desenvolvimento,Organizacional
+<br>
+**Elo:** 
+
+### **ENF06**
+**Categoria Meta-Modelo:** Desenvolvimento,Organizacional
+<br>
+**Elo:** 
+
+### **ENF07**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF08**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF09**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF10**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF11** 
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF12**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF13**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF14**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br>
+**Elo:** 
+
+### **ENF15**
+**Categoria Meta-Modelo:** Ambiental,Desenvolvimento
+<br> 
+**Elo:** 
+<br>
 
 ## Versionamento
 
@@ -67,7 +261,10 @@ A Matriz Backward-Form tem como função ser uma ferramenta de rastreabilidade, 
 |19/11/2020|0.1|Criação do documento|Pedro Vítor de Salles Cella|
 |23/11/2020|0.2|Adicionando origens da matriz de requisitos funcionais|Paulo Gonçalves Lima|
 |23/11/2020|0.3|Adicionando origens da matriz de requisitos não funcionais|Paulo Gonçalves Lima|
+|24/11/2020|0.3|Adicionando categorias e elos|Pedro Vítor de Salles Cella e Paulo Gonçalves Lima|
+
 ## Referências
-[DBD PUC Rio Pagina 12](http://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf)
-[Matriz de rastreabilidade dos requisitos PMO](https://escritoriodeprojetos.com.br/matriz-de-rastreabilidade-dos-requisitos)
-[Matriz Backward-Form Audible](https://requisitos-de-software.github.io/2019.2-Audible/matrizBackward-from/)
+[DBD PUC Rio Pagina 12](http://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf)<br>
+[Matriz de rastreabilidade dos requisitos PMO](https://escritoriodeprojetos.com.br/matriz-de-rastreabilidade-dos-requisitos)<br>
+[Matriz Backward-Form Audible](https://requisitos-de-software.github.io/2019.2-Audible/matrizBackward-from/)<br>
+[TORANZO CESPEDES, Marco Antonio; Uma Proposta para Melhorar o Rastreamento de Requisitos de Software](https://repositorio.ufpe.br/bitstream/123456789/1947/1/arquivo5128_1.pdf)
