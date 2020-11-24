@@ -78,21 +78,61 @@ representa um subsistema.
 |RNF-14|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|||
 |RNF-15|Se deve avisar ao usuário caso o sistema esteja offline e ter uma estimativa de volta.|||
 
-### Detalhamento
+## Detalhamento
 
-![Login](./images/login.jpg)
+## RF-01
+
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![Login](./images/login.jpg ':size=200') | - Requisito do Sistema: Habilidade de fazer login no sistema.<br>- Cenários: Login<br>- Léxicos: Login <br>- Casos de Uso: Fazer Login<br>- Histórias de Usuário: US01<br>- Softgoals Relacionados: Acesso ao aplicativo.
+
+## RF-01
+
 ![Primeiro Pedido](./images/pedirAjuda.jpg)
+
+## RF-01
+
 ![Localização cadastro](./images/loc.jpg)
+
+## RF-01
+
 ![Adicionar Localização](./images/cadastroLoc.jpg)
+
+## RF-01
 ![Cadastroo](./images/cadastro.jpg)
+
+## RF-01
+
 ![Pedido em Andamento](./images/pedidosAndamento.jpg)
+
+## RF-01
+
 ![Grupo de risco](./images/itensProtecao.jpg)
+
+## RF-01
+
 ![Pequenos Serviços](./images/pequenosServicos.jpg)
+
+## RF-01
+
 ![Ajuda Psicológica](./images/apoioPsicologico.jpg)
+
+## RF-01
+
 ![Transporte de Emergência](./images/transporte.jpg)
+
+## RF-01
+
 ![Apoio Social](./images/apoioSocial.jpg)
+
+## RF-01
+
 ![Meus Pedidos](./images/meusPedidos.jpg)
-![Logout](./images/logout.jpg)
+
+## RF-01
+
+![LogOut](./images/logout.jpg)
+
 ---
 
 ## Versionamento
