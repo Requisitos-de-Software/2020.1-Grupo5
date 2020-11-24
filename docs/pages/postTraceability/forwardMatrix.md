@@ -64,14 +64,14 @@ representa um subsistema.
 |RF-17|O usuário deve ser capaz de logar e deslogar de sua conta quando quiser|||
 |RNF-01|O usuário deve ser capaz de criar diversos pedidos de ajuda|||
 |RNF-02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda|||
-|RNF-03|O usuário deve ser capaz de visualizar seu histórico de ajudas|||
-|RNF-04|O usuário deve ser capaz de trocar sua senha quando solicitado|||
-|RNF-05|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19|||
-|RNF-06|O usuário deve ser capaz de informar que é um profissional da saúde mental|||
-|RNF-07|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários|||
+|RNF-03|O usuário deve ser capaz de visualizar seu histórico de ajudas||Histórico||US17, US26|
+|RNF-04|O usuário deve ser capaz de trocar sua senha quando solicitado||||US10|
+|RNF-05|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19||||US05|
+|RNF-06|O usuário deve ser capaz de informar que é um profissional da saúde mental||||US03|
+|RNF-07|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários||||US27|
 |RNF-08|O E-mail do usuário não pode se repetir|||
 |RNF-09|O CPF do usuário não pode se repetir|||
-|RNF-10|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita|||
+|RNF-10|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita||||US22|
 |RNF-11|O usuário deve ter um limite de pedidos de ajuda abertos simultaneamente|||
 |RNF-12|O E-mail do usuário deve ser validado ao criar uma nova conta|||
 |RNF-13|As ajudas do usuário devem ser apagadas depois de um tempo limite|||
