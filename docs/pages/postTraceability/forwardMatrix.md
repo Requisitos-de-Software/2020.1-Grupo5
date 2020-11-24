@@ -8,12 +8,14 @@ A técnica de Pós-Rastreabilidade Forward-Form visa ligar documentos obtidos no
 ## Metodologia
 
 A metodologia escolhida para o desenvolvimento da matriz é a proposta de Toranzo para a rastreabilidade. As informações a serem rastreadas serão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento. Essa classificação é definida como:
+
 - Ambiental: informações de contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido;
 - Organizacional: informações pertencentes à organização (missão, objetivos e estratégias);
 - Gerencial: informações que auxiliam a gerência do projeto; e,
 - Desenvolvimento: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros).  
 
-Além disso, avaliamos também o suporte à rastreabilidade identificando os seguintes tipos de elos: 
+Além disso, avaliamos também o suporte à rastreabilidade identificando os seguintes tipos de elos:
+
 - Satisfação: classe origem tem dependência de satisfação com a classe
 destino.
 - Recurso: classe origem tem dependência de recurso com a classe
@@ -42,9 +44,9 @@ representa um subsistema.
 ### Forward-Form
 
 |ID|Requisito|Cenários|Léxicos|Casos de Uso|Histórias de Usuários|Categoria|Elo
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|RF-01|O usuário deve ser capaz de escolher sua localização no mapa|||
-|RF-02|O usuário deve ser capaz de pedir ajuda para outros usuários|||
+|:-:|:-:|:-|:-|:-|:-|:-|:-|
+|RF-01|O usuário deve ser capaz de escolher sua localização no mapa| - | - | - | US02 | 
+|RF-02|O usuário deve ser capaz de pedir ajuda para outros usuários| - C1;<br>- C10;<br> - C11. | - Ajudas abertas;<br>- Ajudas finalizadas;<br>- Ajudas em Andamento. | [- Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br> []()  | US02
 |RF-03|O usuário deve ser capaz de oferecer ajuda a outros usuários|||
 |RF-04|O usuário deve ser capaz de finalizar uma ajuda quando quiser|||
 |RF-05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar|||
@@ -76,6 +78,61 @@ representa um subsistema.
 |RNF-14|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância|||
 |RNF-15|Se deve avisar ao usuário caso o sistema esteja offline e ter uma estimativa de volta.|||
 
+## Detalhamento
+
+## RF-01
+
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![Login](./images/login.jpg ':size=200') | - Requisito do Sistema: Habilidade de fazer login no sistema.<br>- Cenários: Login<br>- Léxicos: Login <br>- Casos de Uso: Fazer Login<br>- Histórias de Usuário: US01<br>- Softgoals Relacionados: Acesso ao aplicativo.
+
+## RF-01
+
+![Primeiro Pedido](./images/pedirAjuda.jpg)
+
+## RF-01
+
+![Localização cadastro](./images/loc.jpg)
+
+## RF-01
+
+![Adicionar Localização](./images/cadastroLoc.jpg)
+
+## RF-01
+![Cadastroo](./images/cadastro.jpg)
+
+## RF-01
+
+![Pedido em Andamento](./images/pedidosAndamento.jpg)
+
+## RF-01
+
+![Grupo de risco](./images/itensProtecao.jpg)
+
+## RF-01
+
+![Pequenos Serviços](./images/pequenosServicos.jpg)
+
+## RF-01
+
+![Ajuda Psicológica](./images/apoioPsicologico.jpg)
+
+## RF-01
+
+![Transporte de Emergência](./images/transporte.jpg)
+
+## RF-01
+
+![Apoio Social](./images/apoioSocial.jpg)
+
+## RF-01
+
+![Meus Pedidos](./images/meusPedidos.jpg)
+
+## RF-01
+
+![LogOut](./images/logout.jpg)
+
 ---
 
 ## Versionamento
@@ -84,6 +141,8 @@ representa um subsistema.
 |:-:|:-:|:-:|:-:|
 |19/11/2020|0.1|Criação do documento|Pedro Vítor de Salles Cella|
 |21/11/2020|0.2|Descrição dos tópicos de Introdução, Metodologia e Matriz|Ailamar Alves Guimarães|
+|22/11/2020|0.3|Forward-Form versão 0.1|Ailamar Alves Guimarães|
+|23/11/2020|0.4|Adição do detalhamento|Ailamar Alves Guimarães|
 
 <br>
 
