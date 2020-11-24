@@ -88,50 +88,75 @@ representa um subsistema.
 
 ## RF-01
 
-![Primeiro Pedido](./images/pedirAjuda.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![PrimeiroPedido](./images/login.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Localização cadastro](./images/loc.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![LocalizaçãoCadastro](./images/loc.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Adicionar Localização](./images/cadastroLoc.jpg)
-
-## RF-01
-![Cadastroo](./images/cadastro.jpg)
-
-## RF-01
-
-![Pedido em Andamento](./images/pedidosAndamento.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![AdicionarLocalização](./images/cadastroLoc.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Grupo de risco](./images/itensProtecao.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![Cadastro](./images/cadastro.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Pequenos Serviços](./images/pequenosServicos.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![Pedido em Andamento](./images/pedidosAndamento.jpg':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Ajuda Psicológica](./images/apoioPsicologico.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![GrupodeRisco](./images/itensProtecao.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Transporte de Emergência](./images/transporte.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![PequenosServiços](./images/pequenosServicos.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Apoio Social](./images/apoioSocial.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![AjudaPsicológica](./images/apoioPsicologico.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![Meus Pedidos](./images/meusPedidos.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![TransportedeEmergência](./images/transporte.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ## RF-01
 
-![LogOut](./images/logout.jpg)
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![ApoioSocial](./images/apoioSocial.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
+
+## RF-01
+
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![Meus Pedidos](./images/meusPedidos.jpg':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
+
+## RF-01
+
+| Funcionalidade | Rastreabilidade
+|:-:|:-
+| ![LogOut](./images/logout.jpg ':size=200') | - Requisito do Sistema: <br>- Cenários: Login<br>- Léxicos:  <br>- Casos de Uso: <br>- Histórias de Usuário: <br>- Softgoals Relacionados: 
 
 ---
 
