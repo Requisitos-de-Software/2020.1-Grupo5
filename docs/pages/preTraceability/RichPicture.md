@@ -26,6 +26,10 @@ RichPicture é um artefato, que é desenvolvido com o propósito de ilustrar o f
 
 ![Pedro](/images/RichPictureV1_Pedro.jpg ':size=750')
 
+## Versão final
+![Final](/images/richPictureFinal.png)
+
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |15/09/2020|0.1|Adicionando RichPicture 1.0v da equipe|Danillo Souza|
+|25/11/2020|0.2|Adicionando RichPicture Final da equipe|Danillo Souza|
