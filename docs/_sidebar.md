@@ -30,7 +30,7 @@
   * [Validação](/pages/analysis/validation/validation)  
 * Pós Rastreabilidade
   * [Matriz Backward](/pages/postTraceability/backwardMatrix) 
-  * [Matriz Foward](/pages/postTraceability/fowardMatrix)  
+  * [Matriz Foward](/pages/postTraceability/forwardMatrix)  
 
 ---
 * [Politica](/pages/policy/policy)
