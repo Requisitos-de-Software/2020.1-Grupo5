@@ -4,7 +4,7 @@ O caso de uso é forma de modelagem que serve para ilustrar a ideia ou do softwa
 
 # Diagramas de Casos de Uso
 
-## Criar Pedido de Ajuda
+## UC01 - Criar Pedido de Ajuda
 Léxico - Item <i>Ajuda</i>
 
 ![Ajuda](./images/ajuda.png)
@@ -22,7 +22,7 @@ Léxico - Item <i>Ajuda</i>
 |Pós Condições|Facilitação da criação do pedido de Ajuda|
 |Rastreabilidade|Baseado no Requisito Funcional 2 - O usuário deve ser capaz de pedir ajuda para outros usuários|
 
-## Aceitar pedido de Ajuda
+## UC02 - Aceitar pedido de Ajuda
 Léxico - Itens <i>Abrir serviços externos, Filtrar pedidos de ajuda, Finalizar ajuda</i>
 
 ![Pedido](./images/pedido.png)
@@ -40,7 +40,7 @@ Léxico - Itens <i>Abrir serviços externos, Filtrar pedidos de ajuda, Finalizar
 |Pós Condições|O Ajudante pode visualizar suas ofertas de ajuda concluídas pelo seu histórico|
 |Rastreabilidade|Baseados nos seguintes Requisitos Funcionais:<br>- Requisito Funcional 3 - O usuário deve ser capaz de oferecer ajuda a outros usuários<br>- Requisito Funcional 8 - O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário<br>- Requisito Funcional 11 - O usuário deve ser capaz de visualizar suas ofertas de ajuda |
 
-## Editar Perfil
+## UC03 - Editar Perfil
 Léxico - Item <i>Editar perfil</i>
 
 ![Editar_Perfil](./images/perfil.png)
@@ -58,7 +58,7 @@ Léxico - Item <i>Editar perfil</i>
 |Pós Condições|O Usuário pode vizualizar suas informações salvas na próxima vez que acessar o aplicativo|
 |Rastreabilidade|Baseados nos seguintes Requisitos Funcionais:<br>- Requisito Funcional 15 - O usuário pode editar seu telefone<br>- Requisito Funcional 16 - O usuário pode editar seu endereço<br>- Requisito Funcional 17 - O usuário pode editar sua foto de perfil|
 
-## Diagrama Geral
+## UC04 - Diagrama Geral
 
 ![Geral](./images/usecase.png)
 
@@ -69,6 +69,6 @@ Léxico - Item <i>Editar perfil</i>
 |06/10/2020| 0.1 | Criação do documento | Pedro Vítor de Salles Cella |
 |07/10/2020| 0.2 | Atualização do documento | Pedro Vítor de Salles Cella |
 |04/11/2020| 0.3 | Tabelas de Descrição dos diagramas | Pedro Vítor de Salles Cella |
-
+|25/11/2020|0.4|Adcionando IDs para os Use Cases|Paulo Gonçalves Lima|
 ## Referências
 [Página e Use Case do Audible ](https://requisitos-de-software.github.io/2019.2-Audible/casos_de_uso/)
