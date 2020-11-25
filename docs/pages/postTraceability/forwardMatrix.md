@@ -71,21 +71,21 @@ representa um subsistema.
 
 |RNF|Requisito|Cenários|Léxicos|Casos de Uso|Histórias de Usuários|Categoria|Elo
 |:-:|:-:|:-|:-|:-|:-|:-|:-|
-|01|O usuário deve ser capaz de criar diversos pedidos de ajuda|C1.|| - |
-|02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda| C3, C4, C5, C7, C8, C9.|| - |
-|03|O usuário deve ser capaz de visualizar seu histórico de ajudas| - |Histórico| - |US17, US26|
-|04|O usuário deve ser capaz de trocar sua senha quando solicitado| - || - |US10|
-|05|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19| C4 || - |US05|
-|06|O usuário deve ser capaz de informar que é um profissional da saúde mental|C7|| - |US03|
+|01|O usuário deve ser capaz de criar diversos pedidos de ajuda|C1.| Ajudas abertas;<br> Ajudas em andamento.| - |
+|02|O usuário deve ser capaz de ver as informações básicas de quem lhe ofereceu ajuda| C3, C4, C5, C7, C8, C9.| Possíveis ajudantes.| - |
+|03|O usuário deve ser capaz de visualizar seu histórico de ajudas| - |Histórico;<br> Ajudas finalizadas.| - |US17, US26|
+|04|O usuário deve ser capaz de trocar sua senha quando solicitado| - | - | - |US10|
+|05|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19| C4 | - | - |US05|
+|06|O usuário deve ser capaz de informar que é um profissional da saúde mental|C7| - | - |US03|
 |07|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários|C5| Filtrar pedidos de ajuda;<br> *Mapa;<br> Categorias.| - |US27|
 |08|O E-mail do usuário não pode se repetir| C2 | E-mail | - |
-|09|O CPF do usuário não pode se repetir| C2 || - |
-|10|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita|C11|| - |US22|
-|11|O usuário deve ter um limite de pedidos de ajuda abertos simultaneamente| - || - |
-|12|O E-mail do usuário deve ser validado ao criar uma nova conta| C2|| - |
-|13|As ajudas do usuário devem ser apagadas depois de um tempo limite| - || - |
-|14|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância| C2, C12 || - |
-|15|Se deve avisar ao usuário caso o sistema esteja offline e ter uma estimativa de volta.| - || - |
+|09|O CPF do usuário não pode se repetir| C2 | - | - |
+|10|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita|C11| Ajudas em andamento.| - |US22|
+|11|O usuário deve ter um limite de pedidos de ajuda abertos simultaneamente| - | - | - |
+|12|O E-mail do usuário deve ser validado ao criar uma nova conta| C2| E-mail. | - |
+|13|As ajudas do usuário devem ser apagadas depois de um tempo limite| - | *Ajudas abertas.| - |
+|14|Um usuários só pode ajudar outros usuários que estiverem dentro do seu raio de distância| C2, C12 | Pedido de ajuda.| - |
+|15|Se deve avisar ao usuário caso o sistema esteja offline e ter uma estimativa de volta.| - | - | - |
 
 ## Detalhamento
 
