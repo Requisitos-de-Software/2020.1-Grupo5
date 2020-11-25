@@ -48,7 +48,7 @@ representa um subsistema.
 |RF|Requisito|Cenários|Léxicos|Casos de Uso|Histórias de Usuários|Categoria|Elo
 |:-:|:-:|:-|:-|:-|:-|:-|:-|
 |01|O usuário deve ser capaz de escolher sua localização no mapa| - | Mapa | - | US02 | 
-|02|O usuário deve ser capaz de pedir ajuda para outros usuários| C1, C10, C11. | Ajudas abertas;<br>Ajudas finalizadas;<br>Ajudas em Andamento. | [Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br> []()  | US11 ||
+|02|O usuário deve ser capaz de pedir ajuda para outros usuários| C1, C10, C11. | Ajudas abertas;<br>Ajudas finalizadas;<br>Ajudas em Andamento. | [Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br>| US11 ||
 |03|O usuário deve ser capaz de oferecer ajuda a outros usuários| C3, C4, C5, C7, C8, C9, C11, C12.| Ajudante;<br>Possíveis ajudantes;<br>Oferta. | [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US19 |
 |04|O usuário deve ser capaz de finalizar uma ajuda quando quiser| C11. | Finalizar ajuda. | - ||
 |05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar| C4, C5, C7, C8, C9.| Possíveis ajudantes. | - | US14 |
@@ -91,89 +91,97 @@ representa um subsistema.
 
 ## Login
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![Login](./images/login.jpg ':size=200') | **Requisitos do Sistema:** <br> RF-17<br>**Cenário(s):** <br> [C6 - Logar no aplicativo](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c6-logar-no-aplicativo) <br>**Léxico(s):**  <br>**Caso(s) de Uso:** <br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
-
-<br>
-
-## Pedir ajuda
-
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![PrimeiroPedido](./images/pedirAjuda.jpg ':size=200') | **Requisitos do Sistema:**<br>RF-02, RF-12, RF-13<br>**Cenário(s):**<br>[C1 - Primeiro pedido de ajuda,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c1-primeiro-pedido-de-ajuda) <br> [C10 - Emergência com itens de proteção,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c10-emerg%c3%aancia-com-itens-de-prote%c3%a7%c3%a3o) <br> [C11 - Pedido de ajuda confirmado](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c11-pedido-de-ajuda-confirmado)<br>**Léxico(s):**<br> [Ajudas abertas,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/lexicon?id=ajudas-abertas)<br>[Ajudas em Andamento](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/lexicon?id=ajudas-em-andamento)<br>[Ajudas finalizadas,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/lexicon?id=ajudas-finalizadas)<br>**Caso(s) de Uso:**<br>[Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br>**História(s) de Usuário:**<br>**Softgoal(s) Relacionados:** 
-
-<br>
-
-## Marcar localização
-
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![AdicionarLocalização](./images/loc.jpg ':size=200') | **Requisito do Sistema:**<br> RF-01, <br>**Cenário(s):**<br> [C2 - Cadastro no aplicativo,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c2-cadastro-no-aplicativo) [C4 - Ajudando pessoas do grupo de risco,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c4-ajudando-pessoas-do-grupo-de-risco) [C12 - Procurar pedido de ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c12-procurar-pedido-de-ajuda)<br>**Léxico(s):**  <br>**Caso(s) de Uso:** <br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
-
-<br>
-
-## Localização inicial
-
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![LocalizaçãoCadastro](./images/cadastroLoc.jpg ':size=200') | **Requisito do Sistema:** <br>**Cenário(s):** <br> [C2 - Cadastro no aplicativo,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c2-cadastro-no-aplicativo) <br>**Léxico(s):**  <br>**Caso(s) de Uso:** <br>**História(s) de Usuário:**<br>**Softgoal(s) Relacionados:**
+***Figura 1 - Login***|
+|:-:|
+|![Login](./images/login.jpg ':size=200')|
 
 <br>
 
 ## Cadastro
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![Cadastro](./images/cadastro.jpg ':size=200') | **Requisito do Sistema:**<br> RF-14, RF-15, RF-16, RNF-08, RNF-09, RNF-12, RNF-14<br>**Cenário(s):**<br> [C2 - Cadastro no aplicativo](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c2-cadastro-no-aplicativo) <br>**Léxico(s):**  <br>**Caso(s) de Uso:** <br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:** 
+|***Figura 2 - Cadastrar localização inicial***|***Figura 3 - Cadastrar informações do usuário***|
+|:-:|:-:
+![LocalizaçãoCadastro](./images/cadastroLoc.jpg ':size=200') |![Cadastro](./images/cadastro.jpg ':size=200')|
+
+<br>
+
+## Página Inicial
+
+***Figura 5 - Visualizando pedidos próximos***|
+|:-:|
+|![AdicionarLocalização](./images/loc.jpg ':size=200')|
+
+<br>
+
+## Pedir ajuda
+
+***Figura 4 - Criando um pedido de ajuda***|
+|:-:|
+|![PrimeiroPedido](./images/pedirAjuda.jpg ':size=200')|
+
+<br>
 
 ## Pedidos em andamento
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![PedidoemAndamento](./images/pedidosAndamento.jpg ':size=200') | **Requisito do Sistema:**<br>**Cenário(s):** <br>**Léxico(s):**  <br>**Caso(s) de Uso:** <br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
+***Figura 6 - Pedidos em andamento***|
+|:-:|
+|![PedidoemAndamento](./images/pedidosAndamento.jpg ':size=200') |
 
-## Filtro de Itens de Proteção
+<br>
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![GrupodeRisco](./images/itensProtecao.jpg ':size=200') | **Requisito(s) do Sistema:**<br> RF-02, RF-10, RF-14 <br> **Cenário(s):**<br> [C10 -Emergência com itens de proteção](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c10-emerg%C3%AAncia-com-itens-de-prote%C3%A7%C3%A3o) <br>Léxico(s):  <br>Caso(s) de Uso: <br>História(s) de Usuário: <br>Softgoal(s) Relacionados:
+## Ajuda com Itens de Proteção
 
-## Filtro de Pequenos Serviços
+***Figura 7 - Filtro de itens de proteção***|
+|:-:|
+|![GrupodeRisco](./images/itensProtecao.jpg ':size=200')|
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![PequenosServiços](./images/pequenosServicos.jpg ':size=200') | **Requisito(s) do Sistema:**<br>RF-03, RF-05, RF-06, RF-11, RF-12, RF-14, RNF-02<br> **Cenário(s):** [C5 - Mão de obra amiga](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c5-m%C3%A3o-de-obra-amiga) <br>**Léxico(s):** <br>**Caso(s) de Uso:**<br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
+<br>
 
-## Filtro de Ajuda psicológica
+## Ajuda com Pequenos Serviços
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![AjudaPsicológica](./images/apoioPsicologico.jpg ':size=200') | **Requisito(s) do Sistema:** RF-03, RF-05, RF-06, RF-08, RF-14<br> RF<br>**Cenário(s):** [C7- Colaboração Psicológica](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c7-colabora%C3%A7%C3%A3o-psicol%C3%B3gica) <br>Léxico(s):  <br>Caso(s) de Uso: <br>História(s) de Usuário: <br>Softgoal(s) Relacionados:
+***Figura 8 - Filtro de Pequenos Serviços***|
+|:-:|
+|![PequenosServiços](./images/pequenosServicos.jpg ':size=200')|
 
-## Filtro de Transporte de Emerência
+<br>
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![TransportedeEmergência](./images/transporte.jpg ':size=200') | **Requisito(s) do Sistema:** <br> RF-03, RF-05, RF-11, RF-12, RF-14, RNF-02<br> **Cenário(s):**<br> [C8 - Auxílio com transporte de emergência](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c8-aux%c3%adlio-com-transporte-de-emerg%c3%aancia)<br>**Léxico(s):**  <br>**Caso(s) de Uso:** <br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
+## Ajuda Psicológica
 
-## Filtro de Apoio Social
+***Figura 9 - Filtro de Ajuda Psicológica***|
+|:-:|
+| ![AjudaPsicológica](./images/apoioPsicologico.jpg ':size=200')|
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![ApoioSocial](./images/apoioSocial.jpg ':size=200') | **Requisito do Sistema:**<br>RF-03, RF-05, RF-06, RF-10, RF-11, RF-13<br>**Cenário(s):**<br>[C9 - Apoio Social](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c9-apoio-social)<br>Léxico(s):  <br>Caso(s) de Uso: <br>História(s) de Usuário: <br>Softgoal(s) Relacionados:
+<br>
+
+## Ajuda com Transporte de Emergência
+
+***Figura 10 - Filtro de Transporte de Emergência***|
+|:-:|
+| ![TransportedeEmergência](./images/transporte.jpg ':size=200')|
+
+<br>
+
+## Ajuda com Apoio Social
+
+***Figura 11 - Filtro de Apoio Social***|
+|:-:|
+| ![ApoioSocial](./images/apoioSocial.jpg ':size=200') |
+
+<br>
 
 ## Pedidos Finalizados
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![MeusPedidos](./images/meusPedidos.jpg ':size=200') | **Requisito do Sistema:**<br>RF-04, RF-07, RF-08 <br>**Cenário(s):** [C4 - Ajudando pessoas do grupo de risco,](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c4-ajudando-pessoas-do-grupo-de-risco)<br>[C7 - Colaboração Psicológica](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c7-colabora%c3%a7%c3%a3o-psicol%c3%b3gicao)<br> [C11 - Pedido de ajuda confirmado](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c11-pedido-de-ajuda-confirmado)<br>**Léxico(s):** <br>**Caso(s) de Uso:**<br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
+***Figura 12 - Página com pedidos finalizados***|
+|:-:|
+| ![MeusPedidos](./images/meusPedidos.jpg ':size=200')|
+
+<br>
 
 ## Logout
 
-| Funcionalidade | Rastreabilidade
-|:-:|:-
-| ![LogOut](./images/logout.jpg ':size=200') | **Requisito do Sistema:**<br> RF-17 <br>**Cenário(s):**<br>[C13 - Sair do aplicativo](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/scenario?id=c13-sair-do-aplicativo) <br>**Léxico(s):**<br>**Caso(s) de Uso:** <br>**História(s) de Usuário:** <br>**Softgoal(s) Relacionados:**
+***Figura 13 - Sair do aplicativo***|
+|:-:|
+| ![LogOut](./images/logout.jpg ':size=200')|
 
 ---
 
