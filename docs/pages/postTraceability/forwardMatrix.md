@@ -48,22 +48,22 @@ representa um subsistema.
 |RF|Requisito|Cenários|Léxicos|Casos de Uso|Histórias de Usuários|Categoria|Elo
 |:-:|:-:|:-|:-|:-|:-|:-|:-|
 |01|O usuário deve ser capaz de escolher sua localização no mapa| - | - | - | US02 | 
-|02|O usuário deve ser capaz de pedir ajuda para outros usuários| C1, C10, C11. | Ajudas abertas;<br>Ajudas finalizadas;<br>Ajudas em Andamento. | [Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)| US02
-|03|O usuário deve ser capaz de oferecer ajuda a outros usuários| C3, C4, C5, C7, C8, C9, C11, C12. ||
-|04|O usuário deve ser capaz de finalizar uma ajuda quando quiser| C11. ||
-|05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar| C4, C5, C7, C8, C9.||
-|06|O usuário deve ser capaz de entrar em contato com o usuário que lhe ofereceu ajuda|  C4, C5, C7, C9.||
-|07|O usuário deve ser capaz de finalizar um pedido de ajuda depois de ter sido ajudado| C4, C7.||
-|08|O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário| C4, C7.||
-|09|O usuário deve ser capaz de visualizar seus pedidos de ajuda| C1, C10, C11.||
-|10|O usuário deve ser capaz de visualizar suas ofertas de ajuda| C3, C4, C5, C7, C8, C9.||
-|11|O usuário deve ser capaz de visualizar os pedidos de ajuda de outros usuários no mapa| C3, C4, C5, C7, C8, C9.||
-|12|O usuário deve ser capaz de dar um título ao pedido de ajuda| C1.||
-|13|O usuário deve ser capaz de adicionar uma breve descrição ao pedido de ajuda| C1, C4, C5, C7, C8, C9, C10.||
-|14|O usuário pode editar seu telefone| C2. |
-|15|O usuário pode editar seu endereço| C2. ||
-|16|O usuário pode editar sua foto de perfil| C2. ||
-|17|O usuário deve ser capaz de logar e deslogar de sua conta quando quiser|C6, C13.||
+|02|O usuário deve ser capaz de pedir ajuda para outros usuários| C1, C10, C11. | Ajudas abertas;<br>Ajudas finalizadas;<br>Ajudas em Andamento. | [Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br> []()  | US11 ||
+|03|O usuário deve ser capaz de oferecer ajuda a outros usuários| C3, C4, C5, C7, C8, C9, C11, C12.|| [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US19 |
+|04|O usuário deve ser capaz de finalizar uma ajuda quando quiser| C11. ||||
+|05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar| C4, C5, C7, C8, C9.||| US14 |
+|06|O usuário deve ser capaz de entrar em contato com o usuário que lhe ofereceu ajuda| C4, C5, C7, C9.||| US06, US15, US24 |
+|07|O usuário deve ser capaz de finalizar um pedido de ajuda depois de ter sido ajudado| C4, C7.||| US16 |
+|08|O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário| C4, C7.|| [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US20 |
+|10|O usuário deve ser capaz de visualizar seus pedidos de ajuda| C1, C10, C11.||| US18 |
+|11|O usuário deve ser capaz de visualizar suas ofertas de ajuda|C3, C4, C5, C7, C8, C9.|| [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US21 |
+|12|O usuário deve ser capaz de visualizar os pedidos de ajuda de outros usuários no mapa|C3, C4, C5, C7, C8, C9.||| US12 |
+|13|O usuário deve ser capaz de dar um título ao pedido de ajuda| C1.||
+|14|O usuário deve ser capaz de adicionar uma breve descrição ao pedido de ajuda| C1, C4, C5, C7, C8, C9, C10.||| US06 |
+|15|O usuário pode editar seu telefone|C2.|| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US08 |
+|16|O usuário pode editar seu endereço|C2.|| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US09 |
+|17|O usuário pode editar sua foto de perfil|C2.|| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US07 |
+|18|O usuário deve ser capaz de logar e deslogar de sua conta quando quiser|C6, C13.||
 
 ### Matriz de Requisitos não Funcionais
 
