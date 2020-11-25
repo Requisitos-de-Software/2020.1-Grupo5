@@ -28,11 +28,7 @@
     * [NFR Framework](/pages/analysis/verification/verificationNFR)
     * [RichPicture](/pages/analysis/verification/verificationRichpicture)
   * [Validação](/pages/analysis/validation/validation)  
-* Pós Rastreabilidade
-  * [Matriz Backward](/pages/postTraceability/backwardMatrix) 
-  * [Matriz Foward](/pages/postTraceability/fowardMatrix)  
-
----
+  
 * [Politica](/pages/policy/policy)
 * Sprints
   * [Sprint 1](/pages/sprints/sprint1)

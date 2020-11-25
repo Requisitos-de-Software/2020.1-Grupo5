@@ -12,9 +12,7 @@ Consiste em criar um protótipo para que a equipe de desenvolvedores tenha uma n
 ### Metodologia
 Consiste em que a documentação seja avaliada pelo Stakeholder, para que o mesmo informe a equipe se o projeto está sendo documentado da forma correta para o seu processo de desenvolvimento.
  
-![Feedback](/images/feedbackEsio.png)
-
-Esse foi o feedback que obtivemos a partir da avaliação do projeto pelo Scrum Master do Mia Ajuda.
+Até o momento, a documentação do grupo não foi avaliada.
  
 ---
  
