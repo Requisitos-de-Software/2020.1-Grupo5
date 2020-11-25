@@ -91,9 +91,8 @@ representa um subsistema.
 
 ## Login
 
-***Figura 1 - Login***|
-|:-:|
-|![Login](./images/login.jpg ':size=200')|
+***Figura 1 - Login***
+![Login](./images/login.jpg ':size=200')
 
 <br>
 
@@ -107,81 +106,71 @@ representa um subsistema.
 
 ## Página Inicial
 
-***Figura 4 - Visualizando pedidos próximos***|
-|:-:|
-|![AdicionarLocalização](./images/loc.jpg ':size=200')|
+***Figura 4 - Visualizando pedidos próximos***
+![AdicionarLocalização](./images/loc.jpg ':size=200')
 
 <br>
 
 ## Pedir ajuda
 
-***Figura 5 - Criando um pedido de ajuda***|
-|:-:|
-|![PrimeiroPedido](./images/pedirAjuda.jpg ':size=200')|
+***Figura 5 - Criando um pedido de ajuda***
+![PrimeiroPedido](./images/pedirAjuda.jpg ':size=200')
 
 <br>
 
 ## Pedidos em andamento
 
-***Figura 6 - Pedidos em andamento***|
-|:-:|
-|![PedidoemAndamento](./images/pedidosAndamento.jpg ':size=200') |
+***Figura 6 - Pedidos em andamento***
+![PedidoemAndamento](./images/pedidosAndamento.jpg ':size=200') 
 
 <br>
 
 ## Ajuda com Itens de Proteção
 
-***Figura 7 - Filtro de itens de proteção***|
-|:-:|
-|![GrupodeRisco](./images/itensProtecao.jpg ':size=200')|
+***Figura 7 - Filtro de itens de proteção***
+![GrupodeRisco](./images/itensProtecao.jpg ':size=200')
 
 <br>
 
 ## Ajuda com Pequenos Serviços
 
-***Figura 8 - Filtro de Pequenos Serviços***|
-|:-:|
-|![PequenosServiços](./images/pequenosServicos.jpg ':size=200')|
+***Figura 8 - Filtro de Pequenos Serviços***
+![PequenosServiços](./images/pequenosServicos.jpg ':size=200')
 
 <br>
 
 ## Ajuda Psicológica
 
-***Figura 9 - Filtro de Ajuda Psicológica***|
-|:-:|
-| ![AjudaPsicológica](./images/apoioPsicologico.jpg ':size=200')|
+***Figura 9 - Filtro de Ajuda Psicológica***
+![AjudaPsicológica](./images/apoioPsicologico.jpg ':size=200')
 
 <br>
 
 ## Ajuda com Transporte de Emergência
 
-***Figura 10 - Filtro de Transporte de Emergência***|
-|:-:|
-| ![TransportedeEmergência](./images/transporte.jpg ':size=200')|
+***Figura 10 - Filtro de Transporte de Emergência***
+![TransportedeEmergência](./images/transporte.jpg ':size=200')
 
 <br>
 
 ## Ajuda com Apoio Social
 
-***Figura 11 - Filtro de Apoio Social***|
-|:-:|
-| ![ApoioSocial](./images/apoioSocial.jpg ':size=200') |
+***Figura 11 - Filtro de Apoio Social***
+![ApoioSocial](./images/apoioSocial.jpg ':size=200') 
 
 <br>
 
 ## Pedidos Finalizados
 
-***Figura 12 - Página com pedidos finalizados***|
-|:-:|
-| ![MeusPedidos](./images/meusPedidos.jpg ':size=200')|
+***Figura 12 - Página com pedidos finalizados***
+![MeusPedidos](./images/meusPedidos.jpg ':size=200')
 
 <br>
 
 ## Perfil
 
-***Figura 13 - Editar perfil ou sair do aplicativo***|
-|:-:|
-| ![LogOut](./images/logout.jpg ':size=200')|
+***Figura 13 - Editar perfil ou sair do aplicativo***
+![LogOut](./images/logout.jpg ':size=200')
 
 ---
 
