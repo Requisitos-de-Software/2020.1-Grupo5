@@ -7,10 +7,11 @@ Foi pensado em serem feitos pontos de controle entre o grupo. Esses planos de co
 ## Etapas
 Esse é um planejamento inicial e está sujeito a mudanças nas datas caso necessário.
 
-![Cronograma](./Images/cronograma.png)
+![Cronograma](./Images/cronogramaV2.png)
 
 ---
 |Data|Versão|Descrição|Autor|
 |:--:|:----:|:-------:|:---:|
 |06/09/2020|0.1|Criação do cronograma|Pedro Vítor de Salles Cella|
 |06/09/2020|0.2|Revisão do cronograma e adição de tópicos|Ailamar Alves Guimarães|
+|25/11/2020|0.3|Cronograma atualizado|Paulo Gonçalves Lima, Pedro Vitor de Salles Cella|

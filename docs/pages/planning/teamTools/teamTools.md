@@ -4,40 +4,35 @@
 
 ## Comunicação
 
-### [Discord](https://discord.com/)
-
-
 ![Discord](./Images/DiscordLogo.png ':size=100')
 
-- O Discord é utilizado por nossa equipe para que realizemos nossas *dailies* e *plannings* ao decorrer do projeto.
+- O [**Discord**](https://discord.com/) é utilizado por nossa equipe para que realizemos nossas *dailies* e *plannings* ao decorrer do projeto.
 
-### [Telegram](https://telegram.org/)
+---
 
 ![Telegram Logo](./Images/TelegramLogo.png ':size=100')
 
-- O Telegram é utilizado para que todos os membros do grupo consigam se comunicar de forma mais rápida. Pode-se discutir os horários das reuniões, mandar avisos e mais.
+- O [**Telegram**](https://telegram.org/) é utilizado para que todos os membros do grupo consigam se comunicar de forma mais rápida. Pode-se discutir os horários das reuniões, mandar avisos e mais.
 
-## Gerenciamento
-
-### [Zenhub](https://www.zenhub.com/)
-
-![Zenhub Logo](./Images/zenhub-black.png ':size=100')
-
-- O Zenhub serve para se ter um maior controle das issues e poder conseguir visualizar o trabalho feito durante o semestre por diversos gráficos que o programa fornece à equipe.
-
-## Versionamento
+## Versionamento & Gerenciamento
 
 ![gitHub logo](./Images/gitHub.png ':size=100')
 
-- GitHub está sendo utilizado para o versionamento e backup de nossa documentação, além de que também é utilizado para a hospedagem da atual Wiki.
+- [**GitHub**](https://github.com/) está sendo utilizado para o versionamento, backup de nossa documentação, hospedagem da atual Wiki e o gerenciamento do projeto.
 
 ## Desenvolvimento
 
-### [Visual Sudio Code](https://code.visualstudio.com/)
-
 ![Visual studio code logo](./Images/VisualSudioCode.png ':size=100')
 
-- Visual Studio está sendo utilizado para o desenvolvimento da documentação.
+- [**Visual Studio**](https://code.visualstudio.com/) está sendo utilizado para o desenvolvimento da documentação.
+
+## Prototipagem
+
+![Figma](./Images/figma.png ':size=150') 
+
+[**Figma:**](https://www.figma.com/) esse programa será utilizado para a prototipagem da aplicação.
+<br/>
+
 
 ---
 |Data|Versão|Descrição|Autor|
@@ -48,3 +43,4 @@
 |06/09/2020|0.4|Ajuste de algumas descrições e do corpo das imagens|Danillo Souza|
 |06/09/2020|0.5|Adicionando o Github|Danillo Souza e Paulo Gonçalves|
 |06/09/2020|0.6|Troca das logos|Paulo Gonçalves Lima|
+|25/11/2020|0.7|Atualização do arquivo|Paulo Gonçalves Lima, Pedro Vitor de Salles Cella|
