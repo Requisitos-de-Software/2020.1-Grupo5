@@ -29,8 +29,8 @@
     * [RichPicture](/pages/analysis/verification/verificationRichpicture)
   * [Validação](/pages/analysis/validation/validation)  
 * Pós Rastreabilidade
-  * [Matriz Backward](/pages/postTraceability/backwardMatrix) 
-  * [Matriz Foward](/pages/postTraceability/forwardMatrix)  
+  * [Matriz Backward-Form](/pages/postTraceability/backwardMatrix) 
+  * [Matriz Forward-Form](/pages/postTraceability/forwardMatrix)  
 
 ---
 * [Politica](/pages/policy/policy)
