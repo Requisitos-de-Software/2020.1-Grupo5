@@ -49,21 +49,21 @@ representa um subsistema.
 |:-:|:-:|:-|:-|:-|:-|:-|:-|
 |01|O usuário deve ser capaz de escolher sua localização no mapa| - | Mapa | - | US02 | 
 |02|O usuário deve ser capaz de pedir ajuda para outros usuários| C1, C10, C11. | Ajudas abertas;<br>Ajudas finalizadas;<br>Ajudas em Andamento. | [Criar Pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=criar-pedido-de-ajuda)<br> []()  | US11 ||
-|03|O usuário deve ser capaz de oferecer ajuda a outros usuários| C3, C4, C5, C7, C8, C9, C11, C12.| Ajudante, Possíveis ajudantes | [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US19 |
-|04|O usuário deve ser capaz de finalizar uma ajuda quando quiser| C11. | Finalizar ajuda | - ||
-|05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar| C4, C5, C7, C8, C9.| Possíveis ajudantes | - | US14 |
-|06|O usuário deve ser capaz de entrar em contato com o usuário que lhe ofereceu ajuda| C4, C5, C7, C9.| Abrir serviços externos | - | US06, US15, US24 |
-|07|O usuário deve ser capaz de finalizar um pedido de ajuda depois de ter sido ajudado| C4, C7.|| - | US16 |
-|08|O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário| C4, C7.|| [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US20 |
-|10|O usuário deve ser capaz de visualizar seus pedidos de ajuda| C1, C10, C11.|| - | US18 |
-|11|O usuário deve ser capaz de visualizar suas ofertas de ajuda|C3, C4, C5, C7, C8, C9.|| [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US21 |
-|12|O usuário deve ser capaz de visualizar os pedidos de ajuda de outros usuários no mapa|C3, C4, C5, C7, C8, C9.|| - | US12 |
-|13|O usuário deve ser capaz de dar um título ao pedido de ajuda| C1.|| - |
-|14|O usuário deve ser capaz de adicionar uma breve descrição ao pedido de ajuda| C1, C4, C5, C7, C8, C9, C10.|| - | US06 |
-|15|O usuário pode editar seu telefone|C2.|| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US08 |
-|16|O usuário pode editar seu endereço|C2.|| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US09 |
-|17|O usuário pode editar sua foto de perfil|C2.|| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US07 |
-|18|O usuário deve ser capaz de logar e deslogar de sua conta quando quiser|C6, C13.|| - |
+|03|O usuário deve ser capaz de oferecer ajuda a outros usuários| C3, C4, C5, C7, C8, C9, C11, C12.| Ajudante;<br>Possíveis ajudantes;<br>Oferta. | [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US19 |
+|04|O usuário deve ser capaz de finalizar uma ajuda quando quiser| C11. | Finalizar ajuda. | - ||
+|05|O usuário deve ser capaz de escolher o usuário que vai lhe ajudar| C4, C5, C7, C8, C9.| Possíveis ajudantes. | - | US14 |
+|06|O usuário deve ser capaz de entrar em contato com o usuário que lhe ofereceu ajuda| C4, C5, C7, C9.| Abrir serviços externos. | - | US06, US15, US24 |
+|07|O usuário deve ser capaz de finalizar um pedido de ajuda depois de ter sido ajudado| C4, C7.| Finalizar ajuda;<br> Ajudas finalizadas.| - | US16 |
+|08|O usuário deve ser capaz de finalizar uma oferta de ajuda após ajudar um usuário| C4, C7.| Finalizar ajuda. | [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US20 |
+|10|O usuário deve ser capaz de visualizar seus pedidos de ajuda| C1, C10, C11.| Ajudas abertas;<br> Pedido de ajuda.| - | US18 |
+|11|O usuário deve ser capaz de visualizar suas ofertas de ajuda|C3, C4, C5, C7, C8, C9.| *Oferta.| [Aceitar pedido de Ajuda](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=aceitar-pedido-de-ajuda) | US21 |
+|12|O usuário deve ser capaz de visualizar os pedidos de ajuda de outros usuários no mapa|C3, C4, C5, C7, C8, C9.| Ajudas abertas;<br> Mapa.| - | US12 |
+|13|O usuário deve ser capaz de dar um título ao pedido de ajuda| C1.| - | - |
+|14|O usuário deve ser capaz de adicionar uma breve descrição ao pedido de ajuda| C1, C4, C5, C7, C8, C9, C10.| *Categorias.| - | US06 |
+|15|O usuário pode editar seu telefone|C2.| Editar perfil.| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US08 |
+|16|O usuário pode editar seu endereço|C2.| Editar perfil.| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US09 |
+|17|O usuário pode editar sua foto de perfil|C2.| Editar perfil.| [Editar Perfil](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/modeling/useCase/useCase?id=editar-perfil) | US07 |
+|18|O usuário deve ser capaz de logar e deslogar de sua conta quando quiser|C6, C13.| Login;<br> Sair.| - |
 
 ### Matriz de Requisitos não Funcionais
 
@@ -75,7 +75,7 @@ representa um subsistema.
 |04|O usuário deve ser capaz de trocar sua senha quando solicitado| - || - |US10|
 |05|O usuário deve ser capaz de informar se faz parte do grupo de risco da COVID-19| C4 || - |US05|
 |06|O usuário deve ser capaz de informar que é um profissional da saúde mental|C7|| - |US03|
-|07|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários|C5| Filtrar pedidos de ajuda, *Mapa| - |US27|
+|07|O usuário deve ser capaz de selecionar a categoria de sua ajuda para que a mesma possa ser filtrada por outros usuários|C5| Filtrar pedidos de ajuda;<br> *Mapa;<br> Categorias.| - |US27|
 |08|O E-mail do usuário não pode se repetir| C2 | E-mail | - |
 |09|O CPF do usuário não pode se repetir| C2 || - |
 |10|O usuário deve receber notificações quando tiver uma oferta de ajuda aceita|C11|| - |US22|
