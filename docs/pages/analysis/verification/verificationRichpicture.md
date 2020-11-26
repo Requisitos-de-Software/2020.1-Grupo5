@@ -10,6 +10,12 @@ Para esse caso devemos analisar se existe algo de errado com nosso modelo já de
 
 ## Checklist
 
+### Legenda
+|Símbolo|Descrição|
+|:-|:-|
+|OK|Contém|
+|X|Não contém|
+
 |Item|Ailamar|Danillo|Matheus|Paulo|Pedro|  
 |:-|:-:|:-:|:-:|:-:|:-:|
 |1. Os atores apresentam descrição?|OK|OK|OK|OK|OK|
