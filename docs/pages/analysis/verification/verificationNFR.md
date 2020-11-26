@@ -10,6 +10,12 @@ Para esse caso devemos analisar se existe algo de errado com nosso modelo já de
 
 ## Checklist
 
+### Legenda
+|Símbolo|Descrição|
+|:-|:-|
+|OK|Contém|
+|X|Não contém|
+
 |Itens|NFR Geral|NFR Confiabilidade|NFR Desempenho|NFR Usabilidade|
 |:-|:-:|:-:|:-:|:-:|
 |1. Respeita as regras de metodologia?|OK|OK|OK|OK|
