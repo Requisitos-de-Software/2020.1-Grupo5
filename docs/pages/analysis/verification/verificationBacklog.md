@@ -8,6 +8,12 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 Para esse caso devemos analisar se existe algo de errado com nosso modelo já desenvolvido em termos de notação, processo e procedimentos executados. Assim avaliamos se o documento está de acordo com o que é esperado dele utilizando as estratégias apresentadas abaixo. O grupo optou para isso a utilização de checklist pela eficácia em conjunto com as questões elaboradas. Ao final serão revisados e corrigidos os itens defeituosos no documento em questão.
 
 ## Checklist
+
+### Legenda
+|Símbolo|Descrição|
+|:-|:-|
+|OK|Contém|
+|X|Não contém|
  
 ### Backlog Geral
  
