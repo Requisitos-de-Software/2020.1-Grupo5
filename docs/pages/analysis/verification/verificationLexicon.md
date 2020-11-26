@@ -5,6 +5,12 @@
 Este documento tem como intuito demonstrar, utilizando do processo de verificação, possíveis erros feitos durante o processo de modelagem, nesse caso serão verificado os casos de uso utilizando de uma checklist que possui perguntas relacionadas a detalhes que deveriam estar constando no documento de léxico.
 
 ## Checklist
+
+### Legenda
+|Símbolo|Descrição|
+|:-|:-|
+|OK|Contém|
+|X|Não contém|
  
 ### Estados
  
