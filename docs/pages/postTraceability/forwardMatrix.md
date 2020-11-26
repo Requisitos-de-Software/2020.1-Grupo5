@@ -36,8 +36,6 @@ representa um subsistema.
 |:-|:-|
 |RF|Requisito Funcional|
 |RNF|Requisito Não Funcional|
-|EF|Elo Funcional|
-|ENF|Elo Não Funcional|
 
 <br>
 
