@@ -5,6 +5,12 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 
 ## Checklist
 
+### Legenda
+|Símbolo|Descrição|
+|:-|:-|
+|OK|Contém|
+|X|Não contém|
+
 |Item|Criar Pedido de Ajuda|Aceitar Pedido de Ajuda|Editar Perfil|
 |:-|:-:|:-:|:-:|
 |1. A descrição de caso de uso está consistente com a representação no diagrama?|OK|OK|OK|
